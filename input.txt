@@ -1,0 +1,3184 @@
+I wish you luck!
+Thank you. I hope I get accepted.
+I'm filling out these applications.
+What applications?
+College applications.
+You're in college already.
+I'm planning on transferring to another school.
+Which school?
+I won't know until I mail these applications.
+Which schools are you applying to?
+I'm going to apply to NYU and UCLA.
+I hope all goes well with that.
+Cross your fingers.
+What are you up to?
+I'm filling out applications.
+You're filling out applications for what?
+They're college applications.
+You're already in college.
+I'm going to transfer to a different school.
+I'm not sure yet. I'm still filling out applications.
+What colleges are you going to apply to?
+I'm filling out applications to NYU and UCLA.
+Good luck with that.
+I hope one of the two accepts me.
+Registering for Classes Needed for Transfer
+Is this where I go to register for classes?
+I need to add a few classes.
+What classes would you like to add?
+I need to take some classes that will help me transfer.
+Have you finished any classes so far?
+This is my first semester.
+Did you already take the placement test?
+I took it last month.
+What English and math classes were you placed in?
+I got placed in Math 131 and English 1A.
+Okay. I'll register you for both of those classes.
+Do I need to register here?
+You're in the right place.
+I would like to add some classes.
+What classes do you need?
+I need to take some GE classes.
+What classes have you finished so far?
+I just started here.
+You're going to need to take the placement test.
+I took it a month ago.
+Do you know what English and math classes you placed in?
+The test placed me in English 1A and Math 131.
+I'll add those classes to your schedule.
+Is this the registration desk?
+Yes, this is the place.
+I need to get some classes.
+What classes would you like?
+I need to finish my GE classes so that I can transfer.
+Have you finished any of your GE classes yet?
+This is going to be my first semester.
+Have you taken the placement test yet?
+I believe I already took the placement test last month.
+What math and English classes did you get placed in?
+I was placed in English 1A and Math 131.
+I'll make sure you have those classes this semester.
+Talking to a Counselor about Transferring
+I need to talk to you about transferring.
+Where did you want to transfer to?
+What do I need to do in order to transfer?
+You're going to need to finish your General Education.
+How many classes is that?
+The GE is 60 credits worth of classes.
+Is that a lot?
+You can finish in about two years.
+Oh. That shouldn't be a problem at all.
+Can I help you?
+May I talk to you about transferring schools?
+Where would you like to transfer to?
+I haven't figured that out yet.
+You have more than enough time to figure it out.
+What must I do to transfer?
+First, you have to complete your General Education.
+How many GE classes are there?
+You need 60 credits of GE classes.
+If you work fast, you can finish in a matter of two years.
+I wanted to talk to you about transferring.
+You still have time to think about it.
+What do I need to do in the meantime?
+You'll need to finish your GE.
+Exactly how many classes would I need to take?
+You need to complete 60 credits worth of classes to finish your General Education.
+That sounds like a lot of classes.
+It will take you at the most 2 years, depending on your pace.
+That shouldn't be too hard.
+Asking a Professor to Write a Reference Letter
+Can you help me with something, sir?
+Well, I was planning on transferring soon.
+Where are you going to transfer?
+I want to transfer either to NYU or UCLA.
+I'm glad to hear that, but what can I do for you?
+I was wondering if you could write a couple of reference letters for me.
+That's all I need from you.
+I can do that for you.
+You're a lifesaver.
+They'll be ready tomorrow.
+What do you need me to do for you?
+I want to transfer pretty soon.
+Where to?
+I'm applying to both NYU and UCLA.
+What do you need me to help you with?
+Could you write two letters of reference for me?
+Is that all that you need?
+It would mean a lot to me.
+I'll write a couple of letters for you.
+I really appreciate your help.
+Pick them up from me tomorrow.
+Do you think that you can help me?
+I'm going to be transferring schools soon.
+That's great! Where do you want to transfer to?
+That's wonderful, but what do you need from me?
+I need you to write a couple of letters of reference for me.
+Yes, that's it.
+I'll have them ready for you tomorrow.
+You got a letter in the mail.
+Give it to me.
+It's from NYU.
+I didn't get accepted.
+You can't be serious!
+I'm serious.
+Are you all right?
+NYU was my first choice.
+I'm sorry that you didn't get in.
+I'll just have to wait for UCLA.
+There's a letter here for you.
+Let me see it.
+What's the letter about?
+It's a letter from NYU.
+Tell me what it says!
+I didn't get in.
+You're lying.
+I'm not lying.
+Are you upset?
+I had high hopes for NYU.
+I'm sorry you didn't get accepted.
+Hopefully, I'll get accepted to UCLA.
+You received a letter in the mail.
+Give it here.
+Who's the letter from?
+I think it's my acceptance letter from NYU.
+I want to know what it says.
+They didn't accept me.
+Are you okay?
+I really wanted to get into NYU.
+I am really sorry to hear that.
+It's okay. I'm still waiting to hear from UCLA anyway.
+Have you figured out where you want to transfer to?
+I can't think of where to go.
+Where would you like to go to school?
+I really don't know.
+You can't think of anything?
+I really like where I'm at now.
+So, why don't you just stay here?
+That may be what I'm going to do.
+It's a perfectly good school.
+You're absolutely right.
+Do you know what you're going to do now?
+I'm just going to stay at PCC.
+Do you know where you want to transfer to?
+I don't have the slightest clue.
+What school would you like to go to?
+You honestly have no idea?
+PCC is perfectly fine for me.
+You might as well stay here.
+PCC is a wonderful institution.
+So, what are you going to do?
+I'm just going to keep going to PCC.
+I can't seem to make a decision.
+I honestly have no idea.
+You haven't thought about it?
+I like it here at PCC.
+Why don't you just continue going to PCC?
+I like that idea.
+It's a great school.
+I completely agree.
+So, have you made your decision yet?
+I'm staying right where I'm at.
+It's my acceptance letter from UCLA.
+I've been accepted!
+NYU was my first choice, but UCLA is just fine.
+I'm so proud of you.
+Thanks. I'm proud of myself, too.
+Here's a letter for you.
+It's a letter from UCLA about my acceptance.
+Read it!
+UCLA accepted me!
+I'm not joking. I got accepted!
+I'm so happy for you!
+UCLA was my second choice, but I'm happy knowing I've been accepted.
+I am really proud of you.
+You have no idea how proud I am of myself.
+A letter came for you in the mail.
+I think it's my acceptance letter from UCLA.
+Did you get in?
+I got in!
+You're not kidding?
+They really let me in.
+Congratulations!
+I really wanted to get into NYU, but UCLA is just as good.
+You have no idea how proud I am of you.
+I'm so excited.
+Before Transferring to a New School
+Are you ready yet?
+You're transferring tomorrow.
+Yeah. I'm ready.
+Are you nervous?
+Of course I am.
+What are you nervous about?
+I won't know anybody.
+It's good to meet new people.
+You're right. I should be okay.
+You ready?
+Am I ready for what?
+Are you ready to transfer to a new school tomorrow?
+Oh. Yes, I'm ready to transfer.
+You're not nervous, are you?
+I'm very nervous.
+Why are you nervous?
+I'm not going to know anybody there.
+That's not a problem.
+That makes me nervous.
+It's fun meeting new people.
+I didn't think about it that way.
+First Day At a New School
+Are you new here?
+Is this your first year in college?
+I actually transferred here from another school.
+I transferred from PCC.
+How do you like it here compared to PCC?
+I love it here.
+Do you like it better here or at PCC?
+Don't get me wrong. I like it here, but PCC is better.
+So, why did you leave PCC?
+Because I got my AA, and I'm now working towards my Bachelor's Degree.
+You're new here, right?
+Yes, I am new.
+Is this your first semester?
+I just transferred from another school.
+What school did you transfer from?
+I came here from PCC.
+Do you like it here so far?
+I am really enjoying it here so far.
+Which is better, here or PCC?
+I think PCC is a lot better than here.
+Why didn't you just stay at PCC?
+I graduated, and now want to get a BA.
+You must be new.
+As a matter of fact, I am.
+Have you just started college?
+No. I transferred here from a different school.
+What school?
+I transferred here from PCC.
+Do you like it here?
+I really like it here so far.
+I like PCC better.
+If that's the case, then why did you leave?
+I graduated, and am working towards my next degree.
+Transferring from another school
+Are you new to this school?
+Yes, I'm new.
+I transferred from another school.
+Where did you transfer from?
+I was at PCC before.
+Why did you transfer?
+I was going to go here first, but my grades weren't good enough.
+Did you like it at PCC?
+PCC is an incredible school.
+Well, I wish you luck here.
+I'm sure I'll like it here.
+This is my first day here.
+Are you a freshman in college?
+I started school somewhere else.
+I started at PCC.
+What made you transfer?
+My grades weren't good enough to go here.
+Did you like PCC?
+I loved PCC.
+Good luck here.
+I'm excited to be here.
+Will this be your first year?
+No, I transferred here.
+What school did you come from?
+Why'd you transfer here?
+I wanted to attend this school originally, but my grades out of high school weren't good enough.
+Is PCC a good school?
+PCC is great!
+I hope you enjoy it here.
+Are you going to the party on Saturday?
+I was thinking about it. Are you?
+Yeah, I heard it's going to be a lot of fun.
+Really? Well, what time does it start?
+It starts at 8:00 pm, and I really think you should go.
+Well, who else is going to be there?
+Everybody from school.
+How do you know it's going to be so fun?
+This party is going to have a DJ, food, and drinks.
+Wow, that does sound like it's going to be fun.
+So am I going to see you at the party?
+Yeah, I will be there.
+Are you going to be at the party this Saturday?
+I'm not sure yet. Are you going?
+Of course I am, because it's going to be great.
+Is it really? When does it start?
+The party starts at 8 o'clock, and you should really try to go.
+I'm thinking about it. Who is going to the party?
+Pretty much everybody from school.
+What makes you think it's going to be so much fun?
+The party is going to have food, drinks, and live music.
+That does sound like it will be fun.
+Are you going to go?
+Certainly. I'm definitely going to go.
+Do you plan on attending the party on Saturday?
+I haven't decided yet. Are you going to go?
+Yes, I'm going, because it's going to be so much fun.
+For real? What time is the party?
+The party is at 8, and I hope to see you there.
+Maybe I will go. Who's going to be there?
+The whole school is going to be there.
+What's going to be so much fun about this party?
+There's going to be a live DJ, food, and drinks at the party.
+It seems like it will be a very good time.
+So I guess I'll see you there?
+Indeed! I need to join the fun.
+I am not sure. What are you doing?
+I was thinking of maybe taking a drive to the beach.
+That sounds like a great idea!
+Would you be interested in joining me?
+Sure, I would love to go with you. When would you be leaving?
+I thought that we could leave around 8:00 on Saturday morning.
+That would give us plenty of time to explore. Did you know that there is a music festival on the beach in Santa Barbara?
+That was part of my plan.
+Well then, I'll see you on Saturday. Thanks for asking me to go with you.
+Do you have any plans for the weekend?
+I haven't given it much thought. What were you thinking of doing?
+I was planning on taking a trip up the coast to the beach.
+What a perfect thing to do on a beautiful weekend!
+Would you like to come along?
+I think I would enjoy that a lot. When would we leave?
+Saturday morning around 8:00.
+Good. That would get us there with time to look around. There is a music festival in Santa Barbara on the beach that day.
+Yes, I was hoping to be able to go to the festival.
+I am so glad we talked. Thank you for inviting me to the beach with you.
+Have you thought about what you might like to do this weekend?
+I have no idea. Do you have any ideas?
+If the weather stays nice, I'd like to go to the beach.
+That would be a good choice. The weather has been great for the beach!
+Why don't you come with me?
+Hey, that would be perfect! What time are you leaving?
+I think that Saturday morning around 8:00 would work out well.
+Santa Barbara has a music festival on the beach that day. We would have enough time to drop in and see it.
+Yes, I knew the festival would be there and was looking forward to going to it.
+I am really looking forward to Saturday. Thank you for letting me go with you.
+Hey, Robert, what are you doing this weekend?
+I didn't have any big plans.
+We are putting together a birthday party for Mary.
+That sounds like fun. Where will it be?
+We thought it would be fun to have a pool party at Jay's house.
+Oh good! Can I bring anything?
+We will be providing hot dogs, hamburgers, and cake, but people can bring side dishes.
+I am assuming that the dress is casual.
+Dress casually and bring your bathing suit!
+Wonderful. Just e-mail me the time and date and I'll be there.
+Robert, do you have plans for the weekend?
+I have nothing definite planned.
+Saturday is Mary's birthday, and we are throwing her a party.
+Sure, I could come to her party. Where are you going to have it?
+It's going to be a pool party at Jay's apartment building.
+That sounds like fun. Is it a potluck?
+We would like for people to help us by bringing side dishes and drinks.
+The dress will be casual then?
+Make sure to bring your bathing suit, and dress casually.
+Sounds great. Just drop me an e-mail with the time you've picked.
+Robert, are you going to be in town this weekend?
+I don't have anything scheduled yet.
+We were wondering if you would like to come to Mary's birthday party on Saturday.
+I would enjoy coming to Mary's party. Will it be at your house?
+The party will be at Jay's house out by the pool.
+Will everyone be pitching in with some food?
+It would be great if you could bring a side dish, but the rest of the food will be provided.
+What should we wear?
+This is a pool party, so make sure to bring your bathing suit.
+Sounds like we'll have a great time. When you've figured out the details, drop me an e-mail.
+Inviting Boss to a Dinner Party
+Mr. Lee, I was wondering if you and your wife had plans for next Friday night?
+Yes, I think we might be free. What did you have in mind?
+I've mailed a formal written invitation to your home inviting you to a dinner party at my home.
+That sounds great. Is it casual?
+Actually, we thought it would be fun to have a formal sit-down dinner for the holidays.
+That sounds good. It will give my wife a chance to dress up.
+Yes, we've invited four other couples, so it should be a good mix of people.
+That sounds wonderful. Will there be anyone there that I know?
+Oh yes, everyone we are inviting is from our company.
+Great! I'll look forward to it. We'll make sure and check the mail for our invitation.
+Mr. Lee, would you and your wife be free next Friday night?
+I don't think we have any plans, but I would need to see what my wife has planned. Why?
+My wife mailed a written invitation to your wife asking you both to our dinner party.
+It would be our pleasure to join you for dinner. What type of party is it?
+We've always wanted to have a formal dinner party.
+I think we would enjoy that, especially our wives!
+Four other couples are coming, so I'm hoping for some interesting conversation.
+I am sure we will have a great time. Will some of the couples be from our company?
+Yes, you will know all of our guests.
+I'll make sure to check the mail for our invitation. Your dinner plans sound wonderful.
+Would you and your wife be available next Friday night, Mr. Lee?
+I'll have to check with my wife, of course. Did you have something planned?
+We are having a dinner party, and my wife sent you and your wife an invitation.
+I think we would enjoy that. Is it a formal affair?
+My wife insisted on having it be a formal dinner party this time.
+That would be a change. Usually we just do barbeques and never get a chance to dress up.
+We thought that inviting four other couples would make nice conversation.
+I think we will enjoy being there. Will we know anyone?
+We are only inviting people from work.
+I am sure that a good time will be had by everyone. We will be looking for your invitation.
+Accepting Invitation to a Party
+Joe, how are you doing today?
+Pretty good. Mary, I was wondering if you would like to come to a party on Friday night?
+I am free that night, and a party sounds good.
+Fine. It will be at my house. Do you know how to get there?
+I kind of know where you live, but could you e-mail me your address?
+I can do that. Do you have anyone that you would like to bring with you to the party?
+I would really like to bring my friend Jake, if that would be OK.
+Oh yeah, I remember Jake. That would be fine.
+Would you like some help with the food?
+Just bring along whatever it is that you and Jake would like to drink.
+Hi Joe, is everything going OK with you?
+Things are great. Mary, I am having a party on Friday night and was wondering if you would be available?
+I would love to come to your party!
+I am glad you are free. Do you know how to get to my house?
+If you would e-mail me your address, that would help.
+Sure, no problem. Can you think of anyone else I can invite to the party?
+My friend Jake is in town, and I would like it if I could bring him.
+Sure, bring Jake along. The more the merrier!
+Can I bring anything?
+If there is something special that you and Jake would like to drink, bring that along.
+Hey Joe, how's it going?
+Oh good, Mary. I was hoping I'd see you today. Would you like to come to a party on Friday night?
+A party would be a perfect way to end the week!
+Good! Do you need my address?
+I've been to your house once, but I would appreciate you e-mailing me your address.
+That would be no trouble at all. Who else do you think I should ask to the party?
+I don't know if you remember my friend Jake, but I would like to bring him with me.
+Jake would be welcome. If you think of anyone else, feel free to bring them along also.
+What would you like me to bring?
+Everything is taken care of, but if you and Jake want to bring something to drink, that would be appreciated.
+I need some flowers for my wife because it is her birthday.
+We have some fresh red roses.
+How much are the roses?
+Twenty dollars per dozen.
+That sounds like a good deal.
+Yes, that is today's sale price.
+I'll take a dozen.
+Is there anything else you'd like to get?
+No, the roses will be fine.
+I'm sure your wife will love them.
+It's my wife's birthday, and I'm going to buy her some flowers.
+Perhaps you'd be interested in red roses.
+How much do the roses cost?
+They're only $20 a dozen.
+That sounds good, since last year I paid $30.
+Yes, you're saving money because they're on sale today.
+I'll take a dozen of your most beautiful roses.
+Could I interest you in anything else?
+No, I'll just give her the roses and a card.
+She should be very pleased with these roses.
+I need to buy some flowers for my wife's birthday.
+Red roses are always a popular gift for birthdays.
+What would the roses cost me?
+You can get a dozen for only $20.
+That's a price that I like.
+You're in luck today because the roses are on sale.
+I'll purchase the roses.
+Perhaps you'd like something else to go with the roses?
+No, the roses are good enough.
+These roses sho
+I have no idea what to buy for Mary for her birthday.
+Me, neither! Would you like to go in and buy her a gift together?
+Yes, that would be good!
+We need to think about what she might like. What are her interests?
+If I remember right, she likes music, skiing, and reading.
+You know, maybe we could get her some concert tickets. Who would know her favorite groups?
+Her roommate, Malia, might know what her favorite groups are.
+Yeah, Malia would be able to help us choose a concert.
+Let's give Malia a call and ask her for her help right now.
+Good! Maybe Malia would like to go in with us on this gift.
+I can't figure out what to get Mary for her birthday.
+I am having a problem figuring that out myself. Do you want to pick something out together?
+Yes, that way we would have more money to spend.
+She has a lot of interests. What things do you think she likes to do the best?
+Well, she really likes going hiking, listening to music, and travel.
+The music idea sounds good. I wonder who knows what concerts she might like to go to?
+Maybe we could ask her roommate, Malia, who her favorite groups are.
+Malia would be a great help. She has known Mary a long time.
+Let's e-mail Malia and ask her for her suggestions.
+I think that maybe Malia might like to contribute to this gift too.
+I have been trying hard to pick out a cool gift for Mary for her birthday.
+That's been challenging for me too. Would you like to go in with me and choose something together?
+Yes, two heads are better than one.
+What does she like to do? That might help us pick something out.
+She seems to really enjoy music, getting pedicures, and going to the movies.
+Maybe we could get her some concert tickets. Do you know who might know what concert she might like to go to?
+I think that her roommate, Malia, could give us some suggestions.
+Malia definitely could help us. She knows Mary very well.
+I am going to see Malia this afternoon after class and ask her what she thinks.
+That will work out well. Perhaps Malia would like to help buy this gift.
+Welcome, Ron, come on in!
+Hi, Malia! What a nice home!
+We enjoy it too!
+About four years now.
+Well, it is very beautiful.
+Ron, have a seat and I'll get us something to drink.
+Good! I am really thirsty. You know it really is hot outside!
+I have lemonade, iced tea, and mango juice.
+Mango juice would be perfect. Thank you!
+Hi, I haven't seen you in a while.
+Yes, it has been a long time!
+How long has it been since we last saw each other?
+I think that we last saw each other two years ago.
+What have you been doing for the past two years?
+I have been going to graduate school at USC.
+What are you majoring in?
+I am studying international communications.
+You should easily be able to find a job with that major.
+I am counting on being able to get a good job.
+Hello, it's been a long time since I have seen you.
+It is true that I have not seen you in a while.
+Exactly how long do you think that it has been?
+I believe that it has been two years since we last saw each other.
+So where have you been since I last saw you?
+I am working on my doctorate at USC.
+What is your field of emphasis?
+I decided to pursue international communications.
+I think that you will be very employable after you finish your degree.
+I hope that when I finish I will find good work.
+It has certainly been a long time since I saw you last.
+It has been a long time since I last saw you.
+Can you remember when we last saw each other?
+It was about two years ago that we saw each other.
+What have you been up to for the past two years?
+I am finishing up my doctorate at USC.
+What subject did you decide to study?
+International communications is my field.
+That sounds like a very marketable degree.
+I am expecting to get my degree and find an interesting position.
+Ashley, what a great dinner party!
+Thank you, Joe. What would you like to drink with your meal? I can offer you wine, mango juice, or water.
+Just water would be fine.
+Excellent choice. Can I dish you up some chicken?
+Yes, the chicken looks wonderful!
+How about some salad to go with your chicken?
+Sure, I love salad!
+Would you like to have rice with your chicken?
+Yes, I think that rice will go perfectly with my chicken!
+Good! Julie, if you could pass this plate down to Joe, I think we are all set.
+What a wonderful dinner you've prepared, Ashley!
+Thanks, Joe. Would you like some wine, mango juice, or water to go with your dinner?
+I think that a glass of wine would be perfect.
+Here is your beverage. If you pass me your plate, I can dish you up some chicken.
+Yes, the chicken smells great!
+Can I interest you in some salad to go with your chicken?
+I would love to have some salad!
+I also have rice. Would you like some rice on the side?
+Yes, I absolutely love chicken and rice.
+Excellent! If Julie could pass this plate down to you, we can dig in!
+Oh Ashley, your dinner looks delicious!
+I appreciate the compliment, Joe. What would you prefer with your meal--wine, mango juice, or water?
+Mango juice would be a good choice for me.
+Julie can pour your drink for you. Can I offer you some chicken?
+Yes, that chicken looks yummy!
+Would you like some salad to go with your chicken?
+Yes, I would enjoy having some salad.
+I have also prepared rice. Are you ready for some rice?
+Yes, chicken and rice are a favorite of mine.
+Good! Julie, could you pass this plate to Joe so we can get started?
+Mary, it's good to see you!
+Josh and I were just on our way back home from the beach and thought we'd drop by.
+I am so glad that you decided to stop by!
+Yes, it has been a long time since we have seen you.
+Mary, can I get Josh or you something to drink?
+Oh no, thank you. We aren't all that thirsty.
+How about a little snack then?
+No, thank you, we just ate lunch a little while ago.
+Well then, how is your family?
+Everyone is doing great. My sister finally had her baby.
+Mary, what a surprise!
+I am so glad you are home! Josh and I thought that we'd take a chance and stop by for a visit.
+Your timing is perfect!
+It's been a long time since we've stopped by.
+Mary, Josh, would either of you like something to drink?
+Thanks, but we really are fine.
+Would you like a little snack?
+No, thanks. We are still full from lunch.
+Is your family doing well?
+Things are going well for everyone. My brother finally got the job he had been trying for.
+Mary, how have you been?
+Josh and I just took a chance on our way home from the beach to see if you were up for visitors.
+I was just thinking about you yesterday!
+It's been ages since we had a chance to visit with you!
+Mary, please let me get the two of you something to drink.
+Oh, please don't go to any trouble. We just stopped by for a visit.
+Can I get you a little something to eat?
+We appreciate the offer, but we already ate.
+So tell me, how is your family doing?
+We are all doing well. My dad finally got to retire and is enjoying his leisure time.
+Hi Julie, how are things going?
+Everything is great, Tad. How are you?
+I'm doing really well.
+Tad, I'm pretty hungry right now. Want to walk over and check out the food table?
+Julie, do you know who that woman is over there by the window?
+That is Mary. I heard that she's just moved in with Lee.
+I thought that he was with Malia.
+Oh, that relationship is history. Malia hooked up with a guy she met on holiday.
+I bet that Lee wasn't too happy with that!
+Actually, he was OK with it. They hadn't been getting along too well.
+Hi Julie, how are you?
+Things are going good, Tad. How about you?
+Things have been going well for me.
+That food smells delicious! Let's wander over to the food table and see what's up.
+Julie, do you know who that woman talking to Lee is?
+I think that her name is Mary. I think that she and Lee are moving in together.
+Isn't he with Malia?
+Malia dumped him. She ran off with a guy she met on vacation.
+Lee was probably less than thrilled with that!
+He was kind of relieved. They had been having some pro
+Hi Julie, how have things been going for you?
+I'm good, Tad. How are things with you?
+Things couldn't be better right now.
+Boy, that's quite a spread over on the food table! Let's go check out the party food.
+Julie, who is the woman sitting next to Lee on the sofa?
+Someone told me her name is Mary. Supposedly, she and Lee are living together in Lee's apartment.
+What about his relationship with Malia?
+Malia is no longer in the picture. She moved to Australia to be with a guy she met on vacation.
+How did Lee feel about that happening?
+He took it pretty well. I think that he had kind of had his eye on Mary for a while.
+Their wedding was absolutely beautiful.
+It really was. I want a wedding like that.
+How much do you think they spent on their wedding?
+I think it might've cost them a nice chunk of change.
+Do you want a big wedding like that?
+Not really. I'd rather have a small wedding.
+I wouldn't want a small wedding.
+I want my wedding to be big and memorable.
+It can be small and memorable too.
+Well, to each his own.
+You are absolutely right.
+Their wedding was just exquisite.
+I know. Maybe one day I'll have a wedding like that.
+What do you think their budget was?
+It must have cost them a pretty penny.
+Would you like to have a big wedding like they did?
+No. I think I would prefer a smaller wedding.
+I want a big wedding.
+I want my wedding to be extravagant, and I want everyone to remember it.
+Your wedding doesn't have to be big to be memorable.
+Whatever floats your boat.
+That is correct.
+Their wedding was so beautiful.
+I agree completely. I hope that I have a wedding like that one day.
+How much do you reckon it cost to pull that wedding off?
+I think it cost them a lot of money.
+Do you hope to have a wedding as big as theirs?
+I don't think so. I want to have a smaller wedding.
+Not me.
+Why do you want a bigger wedding?
+I want to have a large wedding that everyone will remember.
+You can have a small wedding, and people will still remember it.
+Whatever flicks your Bic.
+That is true.
+Going to the Beach
+Do you want to go to the beach tonight?
+Sure, which beach are we going to?
+I wanted to go to Malibu beach.
+I like Santa Monica.
+The water there looks so dirty.
+I just like the pier they have at Santa Monica.
+I like the pier too, because it's beautiful at night.
+Is Malibu beach nice?
+It's a lot nicer, and I really like it better.
+So you want to go to Malibu?
+If that's okay with you.
+Sure, let's go to Malibu.
+What do you think about going to the beach tonight?
+I'd love to. Which beach?
+It's up to you, but I was thinking Malibu beach.
+I really like Santa Monica beach.
+But the water there doesn't look too clean.
+I only go because of the pier.
+The pier is really nice at night.
+How is it at Malibu beach?
+I love Malibu beach, because it's so beautiful.
+So is Malibu where you really want to go?
+Are you cool with that?
+Yeah, we can go to Malibu.
+I want to go to the beach tonight.
+That sounds like fun. Which one are you thinking about?
+I was thinking Malibu, unless there is another beach you want to go to.
+How about Santa Monica?
+I don't really like that beach, as the water seems really dirty.
+The only thing I like about that beach is the pier.
+At night, the pier is absolutely beautiful.
+What's it like at Malibu beach?
+I love that beach, because it's just so nice.
+So we're going to Malibu?
+Well, if you don't want to go to Malibu, we can go to Santa Monica.
+We can always go to Santa Monica another day.
+Dating Discussion
+Do you enjoy going on dates?
+Yes. I find dates to be a lot of fun.
+What's so fun about them?
+They give me the opportunity to get to know someone better.
+So you always have fun on dates?
+Not always. I don't always like the person I'm on the date with.
+My date may not be my type.
+So then why would you ask them out in the first place?
+I didn't realize until after our date that they weren't my type.
+Sounds like a huge waste of time to me.
+Now that I think about it, it really is sometimes.
+Do you like dating?
+It's really a lot of fun.
+What makes it so much fun?
+It makes it easier to get to know somebody.
+Are dates always fun to you?
+Sometimes I may not like the person I'm having a date with.
+The other person isn't always my type.
+Why would you bother going out with them then?
+I didn't know that they weren't my type until after I got to know them better.
+It seems to me that you're wasting your time.
+You are absolutely correct, sometimes it is a waste.
+Are dates fun for you?
+I enjoy dating a lot.
+Why are they so fun for you?
+Dates allow me to meet new people.
+Your dates are always fun?
+Well, I don't always like who I'm dating; so not always.
+The person I am dating may not be my type.
+How come you asked them out if they weren't your type?
+You don't always know what type of person you go on a date with until you know them well enough.
+Dating sounds pointless.
+Now that you mention it, sometimes you're right.
+Well, I was just wondering if you'd like to go out this Friday.
+Yeah, I was thinking we could get a bite to eat and catch a movie.
+Of course, we can do something else if you'd like.
+No, no, dinner and a movie sounds great.
+Well, what time would you like me to pick you up?
+How about 7:30?
+That sounds good, so I'll see you then.
+Okay, cool.
+May I ask you a quick question?
+How would you like to go on a date with me this Friday?
+Seriously?
+Well, I figured that we could go see a movie and get some dinner.
+Cool, that sounds like it will be fun.
+We can always do something else if you'd rather.
+Not at all. I would love to go to dinner and a movie.
+That's great, so what time do you want me to come get you?
+Is 7:30 okay?
+Friday at 7:30 sounds perfect.
+Great. See you then.
+Can I ask you something?
+Sure you can. What's going on?
+Would you go out with me on Friday?
+Are you for real?
+I thought that we could go to dinner and a movie.
+That actually sounds like it would be a lot of fun.
+Unless there's something else you would prefer to do.
+Actually, I would really like to go to dinner and a movie.
+What time do you want me to come by and pick you up?
+Is 7:30 cool with you?
+That's perfect, so I'll see you then.
+Perfect. I will see you on Friday.
+Hi, Todd, how is it going?
+Things are going well. How are you, Mary?
+I've also been doing well.
+You know I've been thinking about maybe taking in a movie this weekend. Do you like to go to the movies?
+Yes, I really enjoy movies.
+Well, I've been hoping that we could spend some time together away from here. I was wondering if you would like to go out Friday evening for dinner and a movie.
+Sure, that sounds good.
+Is there any movie in particular that you might be interested in?
+I was thinking about that movie, "Australia."
+Yeah, that looks like one that we both might enjoy. If I picked you up at 7:00, would that work out OK for you?
+Seven o'clock would be great!
+Fine, then I'll see you at 7:00. I am looking forward to a great evening!
+Hey Todd, how are you?
+I've been doing well. How are things with you, Mary?
+Things are good with me also.
+Mary, I was looking in the paper at the new movies coming out. Do you enjoy movies?
+Yes, I go all the time.
+I was hoping that you and I could maybe spend a Friday evening together. I was wondering if you would like to go with me this Friday to see a movie and get a bite to eat afterwards.
+I would love to go out with you on Friday.
+Do you have a certain movie that you would like to see?
+I've heard a lot of things about the movie "Australia."
+You know, I was thinking that that would be a good movie to go see together. Would 7:00 be a good time to pick you up?
+Seven o'clock would be perfect!
+OK, I'll pick you up at 7:00 then.
+Todd, how have you been?
+Everything is good. How have you been, Mary?
+Perfect, couldn't be better.
+Mary, I was thinking that I might go to the movies this weekend. Do you go to the movies very often?
+Yes, I like going to the movies.
+Would you be interested in letting me take you to the movies on Friday? Maybe we could get a bite to eat afterwards.
+I think I would enjoy seeing a movie with you on Friday.
+I am not sure what movies are out right now. Have you heard of any that you might be interested in?
+I think that that new movie, "Australia," looks like it might be good.
+That movie sounded interesting to me too. If I picked you up at 7:00, would that be too early?
+I think that seven o'clock will work out well.
+Perfect! Well, I'll see you at 7:00 on Friday, then!
+Meeting a Blind Date
+Hi, are you Mia?
+I am Mia. You must be Rubin.
+Yes, that's me!
+It's so good to finally meet you. Karen has told me so much about you!
+I hope that she had good things to say about me!
+She had only good things to say. Did you have trouble finding me?
+Well, how many beautiful women in a red dress by the fountain are there?
+Thank you for the compliment!
+So would you like to go get a bite to eat, Mia?
+That sounds perfect. Lead the way!
+Hi, is your name Mia?
+Yes, my name is Mia. Are you Rubin?
+Yes, I am Rubin!
+Finally! The infamous Rubin! I've heard so much about you that I feel like I already know you.
+Oh no, I hope they had positive things to say.
+Don't worry. All of the stories were good. How were you able to find me so quickly?
+It was pretty easy to find the beautiful woman in a red dress next to the fountain.
+Well, I guess that kind of narrowed it down!
+Mia, could I interest you in some lunch down the street at my favorite cafe?
+Yes, it's a great day for a little walk and some lunch.
+Hi, I am looking for a woman named Mia.
+I think I am who you are looking for. You have got to be Rubin, then.
+That would be me!
+Rubin! Karen and Mike have spoken about you so often that I feel like I've met you before.
+I hope that what they had to say was mostly good!
+They only said wonderful things about you. You did a good job of finding me.
+Finding the beautiful woman in a red dress next to the fountain wasn't all that hard.
+Yes, I guess it was a choice of me or the pigeons!
+I was hoping that we could take a walk down the street to my favorite cafe.
+Lunch sounds great! Let's head on out!
+Calling After the Date
+Hi Linda, this is Todd.
+Todd, good to hear from you!
+I just wanted to tell you what a great time I had with you at the movies last week.
+Me too, Todd! Thanks for suggesting that great movie.
+I also enjoyed it and was wondering if you would like to go for a hike in the mountains with me on Saturday.
+I would love to join you on a hike. Could I maybe bring a picnic lunch for us to eat on the trail?
+Sure Linda, that's a great suggestion.
+Fine then, what time are we going to leave?
+I was thinking maybe 9:00 or so, so that we could get started before the heat gets too bad.
+Nine would be perfect. I'll see you then!
+Linda, this is Todd calling.
+Todd, I am so happy you called!
+Linda, I wanted to tell you how much I enjoyed our time together last Friday night.
+Boy, Todd, that was one great movie you picked out! Thanks for asking me to go with you!
+I had a great time too and was thinking that maybe you might want to join me for a hike to the waterfalls on Saturday.
+A hike would be great! Let me pack us a nice picnic lunch, OK?
+Linda, that would be a perfect addition.
+I'll take care of the lunch then, and you can take care of the other plans. What time would you like to pick me up?
+I was hoping to leave by 9:00 so that it won't be too hot for the hike.
+Nine is a great time to get started. I'll see you on Saturday!
+Nine would be perf
+An Argument
+John, I was talking to the travel agent about where we might be taking our vacation this year.
+I am going fishing in Alaska with my friend, Mark.
+What's wrong with heading out with Mark for vacation?
+You and I have been together for a whole year, and our vacation time should be about the two of us!
+Really? Who made that rule up?
+With that attitude, I don't really think we have much more to discuss here.
+That works for me!
+John, I was looking through some magazines for ideas about where we might go on vacation this year.
+I've already told my buddy, Mark, that I am going hunting with him in Alaska.
+Hey, I've always gone hunting or fishing on vacation. I am sorry that bothers you.
+After a year together, I thought it pretty safe to assume that we would automatically spend our vacation together.
+Says who? I don't think that is necessarily the case.
+You know, now that I think about it, I really don't have much more to say to you at all!
+Whatever you say!
+Brian and Christina were mentioning that maybe it would be fun to go on vacation together this year, John.
+I thought that I already told you that I am going with Mark to Alaska.
+You know what? You and I had no plans, so I made plans with Mark. What's the problem?
+We have been together for a year and usually, people who've been together a year, take their vacation together.
+I don't think that I ever heard of that rule before. Any more rules that you would like to tell me about?
+Go on your vacation with Mark and when you come back, why don't you just move in with him as well!
+I am really looking forward to getting away from you. Far away from you!
+Joe, how are you doing?
+I am great! How about you, Mary? How are you?
+I am doing great! Thank you for asking, Joe.
+I was wondering if you want to go see a movie with me tonight?
+I need to stay home tonight and finish my term paper.
+OK. What about going to the movies on Friday night?
+What were you planning on seeing?
+I was thinking about seeing that one about the rapist serial killer.
+How about "The Secret Life of Bees"?
+That's a chick flick!
+Hi Joe, how are you doing today?
+Things are going good today. How have you been doing, Mary?
+Things are going well for me, Joe.
+Want to go see a movie tonight?
+My parents are taking me to dinner tonight.
+Could you go with me to the movies on Friday night, instead?
+What movie did you want to see?
+There is a new horror flick about a rapist serial killer.
+I was thinking that I would like to see "The Secret Life of Bees."
+Oh great! Sounds like something I need to bring Kleenex to!
+Hi Kara, it's Mike here.
+Hi Mike, how are you doing?
+I'm doing well, and you?
+Everything is going great.
+Kara, would you be interested in going to dinner again this Friday?
+Mike, I had a good time too, but I am getting ready to move back to the east coast, so I think I shouldn't get too involved right now.
+Well, we could just go out as friends.
+Right now, I think I need to really focus on matters at home, but thanks for a nice evening.
+Hi Kara, this is Mike
+Hello Mike. How are things going for you?
+Great, how are you?
+Fine. Everything is just fine.
+Kara, I had a great time the other night and was wondering if you would like to go out again this weekend.
+Mike, I enjoyed your company, but I am getting ready to graduate soon. I really need to focus on my studies.
+Maybe I could help you with what you need to get done.
+It would be better for me to just deal with getting my work done, but thank you for a lovely dinner.
+A: Hello, this is Mike, Kara.
+B: Mike! Good to hear from you. How are you?
+A: Everything is fine, and how are you?
+B: Things are going well with me.
+A: Kara, I had fun the other night at the movies and was wondering if you would like to go out again this Friday.
+B: Mike, I don't think that it's a good idea to go out again. I really need to focus on getting packed and ready to move back home.
+A: Maybe we could just meet for coffee or something.
+B: I can't really deal with any distractions right now, but I appreciate the nice evening we spent together.
+Scheduling an Apartment Viewing
+Hi, can I speak with the apartment manager, please?
+Hello, this is the apartment manager speaking.
+I'm calling about the apartment for rent on Main Street.
+Would you be interested in seeing the apartment?
+I would love to see it.
+Are you free today at around 6 p.m.?
+Yes, I will be able to make it then.
+Well, I'll see you at 6 p.m. Do you know how to get there?
+I used to live in that area.
+I'll give you an application form when I see you.
+That sounds good. Do I need to bring anything?
+No. Just bring yourself.
+Hello, I was wondering if I could talk with the apartment manager.
+I am the apartment manager. How can I help you?
+I was wondering if the apartment on Main Street is still available.
+Yes, it's still vacant. Are you interested in seeing it?
+Yes, I would love to see the apartment.
+I will be at the apartment today at 6:00. Can you make it?
+Yes, I can be there at 6.
+Great. I'll see you at 6. Do you know where it is?
+Yes, I have a friend who lives in that neighborhood.
+I'll be bringing an application form.
+OK, should I bring anything with me?
+No. I might need to see your ID card, but that's about it.
+Could I speak to the apartment manager?
+I wanted to know if that apartment on Main Street is still for rent.
+I haven't rented it out yet. Would you like to see it?
+Yes, I want to see it.
+How about today at 6 p.m.?
+That time is okay with me.
+Very good. We'll meet at 6. Do you need directions?
+No, thank you. I go by there on my way to work.
+If you're interested, you can fill out an application form.
+That's a good idea. Do I need to bring anything myself?
+No. The only thing I need to see is your driver's license.
+A Broken Window
+This is Janet Smith in apartment 23. Can I speak to the apartment manager?
+Hi. How can I help you today?
+Well, my window facing the empty lot is broken.
+Oh, that's not good. What happened?
+I dont know. I wasn't home when it happened.
+Do you have any clue who might have done this?
+I have a feeling that it might have been the neighborhood kids.
+Why, what leads you to that suspicion?
+Well, next to the broken glass was a baseball.
+Well, a baseball is certainly solid evidence.
+I saw them playing just before I left my apartment.
+Well, did you recognize any of them?
+No, I just took a quick look.
+Well, it'll take a couple of days to repair it.
+A friend of mine is in the business. How about if I call him?
+That's okay by me. First, let me come see the damage.
+Come on over. So does my friend charge you or me?
+Since you didn't break it, you don't have to pay for it.
+That's a relief. I thought I was going to get stuck with the bill.
+If I knew which kid did it, I would bill his parents.
+I'm Janet Smith in apartment 23. Is this the apartment manager?
+Hello. What can I do for you today?
+My living room window is broken.
+Are you serious? Do you know what happened?
+I am not really sure, because I was out when it occurred.
+Do you have any idea who might have been behind this?
+Something tells me it might be some of the kids in the complex.
+What led you to think it might be the kids in this building?
+I found a baseball near the broken glass.
+Well, you can't ignore a baseball in your living room, can you?
+I saw them in the lot just before I went out.
+Do you know any of them?
+No, I didn't pay any attention to who they were.
+I'll call the window repairman, but it'll probably take a couple of days.
+I could get fast service if I call a friend of mine.
+I don't have a problem with that. Let me look at the damage first.
+Okay, I'm waiting for you. But who does my friend give the bill to?
+Since the kids broke it, your friend can bill me.
+Whew! I was worried that I would have to pay for it.
+Believe me, if I find out which kid broke the window, I'll bill his parents.
+This is Janet Smith in apartment 23. May I speak to the apartment manager?
+Speaking. What can I do for you?
+Something happened to my window. It's broken.
+That doesn't sound good. Do you know how it happened?
+I don't know the exact details.
+Do you have an idea who might be responsible for the window?
+I'm almost sure it is the local kids in the apartments.
+How did you come to that conclusion?
+There was a baseball in my living room along with the broken glass.
+Well, at least there's no mystery about how it happened.
+I saw a group of them playing in the lot just before I went out to my car.
+Can you tell me which ones you recognized?
+I just looked at them for a second.
+I'll call a repairman, but it might take two days.
+How about if I call a friend of mine who is a repairman?
+That's no problem. I'll come by right now to look at the damage.
+Okay. Come on over. But tell me, who pays for this?
+You can pay for it, and I can reimburse you. Or he can bill me directly.
+I'm glad to hear that. I didn't want to get stuck with the bill.
+I will bill the kid's parents if I ever find out which kid did it.
+Asking about Public Transportation
+Can you give me a little more information about your apartment?
+What kind of public transportation is near your apartment?
+I'm not sure, but I believe there is a bus stop about three blocks away.
+Do you know what direction that bus travels?
+I'm sorry. If you check online, you can get that kind of information.
+Okay, I'll just go online.
+Okay. Good luck with your search.
+Hello, I was hoping you could give me more info about your apartment.
+I can try to help you. What would you like to know?
+Is there access to public transportation near the apartment?
+I'm pretty sure there's a bus stop within walking distance.
+Do you know anything about the buses that stop there?
+I don't know, but I'm pretty sure you can find out that stuff online.
+I think the local library has bus info.
+Good luck. The bus info shouldn't be too hard to find.
+All right, what do you need to know?
+What is the public transportation like near your apartment?
+I don't use buses, but I think there's a bus stop a few blocks away.
+Which route does the bus travel?
+I wish I could help you, but I know nothing about the bus system.
+I'll just check my phone book. It has lots of good information.
+I'm sorry I couldn't help you more.
+Interviewing a Potential Roommate
+Hello, this is Albert.
+Hi. I'm Jack. You called about the room for rent. Are you still interested?
+I was wondering if I could ask you a couple of questions.
+Shoot.
+I just want to be sure that we get along.
+I agree with you 100 percent--we must get along.
+Are you a party animal?
+Oh, no. I'm a very quiet person.
+Great! Next: Are you neat or are you a slob?
+I'm a pretty neat person.
+Are you a night owl or a day person?
+Early to bed, early to rise.
+Finally, do you smoke?
+Actually, I quit smoking four years ago.
+Excellent answers. Do you have any questions for me?
+Just one: Is there a parking lot?
+Unfortunately, you have to park in the street.
+Well, I'm desperate. I'll take it anyway.
+Great! Let me know when you're ready to move in.
+I think it will be tomorrow if that's okay.
+No problem. I'll be here all day tomorrow.
+Hi, this is Albert.
+Hi, my name is Jack. You called about a room for rent. Are you still interested?
+Yes, more than you know.
+I don't mean to pry, but could I ask you a couple of questions?
+Ask away.
+I don't want us to be roommates who don't get along.
+Yes, we must get along if we are going to be roommates.
+Is partying one of your priorities?
+I'm a student. I don't have time to party.
+Very good. Now, do you clean up after yourself?
+I clean up my own mess, and I expect others to do so, too.
+What time do you usually hit the sack?
+Occasionally, I stay up late if there's a big test the next day.
+What about smoking?
+If I ever get elected President, I will ban smoking nationwide.
+Very good. Now, would you like to ask me anything?
+Yes, I have one question. Do I have to park in the street?
+I'm sorry. Yes, you have to park your car in the street.
+I hate street parking, but I need the apartment now.
+Very good. Just call me when you're ready to move your stuff over here.
+How about if I come over tomorrow afternoon?
+Just ring the doorbell. I'll be here all day.
+Garbage Disposal
+Hi, Tom. This is Hannah from apartment 4C.
+Oh, hi, Hannah.
+There is something wrong with my garbage disposal.
+Exactly what's going on?
+When I turn on the disposal switch, all I get is silence.
+When did this happen?
+Well, about a week ago is when it started sounding strange.
+Did you accidentally drop something in the disposal?
+No. I only use it about once a week. I hardly ever put anything into it.
+Actually, I've heard that too little use is bad for a disposal.
+Well, no one ever told me that.
+Did you try to turn it with the disposal key?
+I don't have a key.
+Well, I've got a spare key, so I'll come over to show you how to use it.
+Okay, come on over now, and show me how to use it.
+If the key doesn't work, I'll have to call the repairman.
+Well, if it doesn't work, it's no big deal.
+Yes, but if something's broken, I like to get it fixed ASAP.
+Tom, are you there? It's Hannah from 4C.
+Hey, Hannah. Long time no hear from.
+My garbage disposal refuses to work.
+What happens when you turn on the switch?
+When I turn on the switch, nothing happens.
+When did you first notice this?
+A week ago it started sounding different.
+Did you put something in it that you shouldn't have?
+I use it rarely. When I do use it, I put pasta or other soft food into it.
+Maybe you haven't been using the disposal enough.
+Sort of like an air conditioner in your home or car?
+Exactly. However, sometimes you can get it going again by using the key.
+What key?
+A disposal key. I've got a spare one, so I'll come over to show you.
+If the key doesn't correct the problem, I'll have to call someone.
+Well, like I said, I rarely use it so it won't be a problem.
+Well, it's my nature to fix things as soon as I can.
+Is anybody home? It's me--Hannah.
+Hey, Hannah. How's everything going?
+My garbage disposal isn't working.
+Can you be a little more specific?
+Nothing happens when I turn on the switch.
+Do you remember how it started?
+about a week ago I noticed a new sound.
+You didn't drop a fork or anything into it, did you?
+I don't use it very often. When I do use it, I put only soft food into it.
+I've heard that disposals need to be run frequently.
+That's interesting. I never heard that before.
+Have you tried to turn it manually using the key?
+I don't have a key, and I wouldn't know how to use it.
+I've got an extra key. I'll show you how to use it.
+I'm always willing to learn something new. Come on over.
+The key might not work. Then I'll have to call the plumber.
+If it works or doesn't work, it doesn't matter much to me.
+Security Deposit
+Yes, this is John Smith.
+John, this is Terry Evans. I called to tell you I have good news.
+Great, what is it?
+The owner has approved your rental application. He enjoyed talking to you.
+That's great. He seemed like a really nice guy.
+Now, before you can move in, you need to pay some fees.
+Fees, what kind of fees?
+You know. First and last month's rent and security deposit.
+Oh, those fees!
+First and last is $2,500, and the deposit is $1,000. Just send me a check for $3,500.
+No problem, what's your address?
+Send it to 3035 E. Foothill Blvd., Pasadena, CA 91107.
+So, when can I move in?
+The first of next month. Just stop by my office and pick up your keys.
+Very good! Let me have your phone number.
+Sure. It's 626-555-3000.
+John speaking.
+John, my name is Terry Evans. I have good news for you.
+I'm all ears. What is it?
+Your rental application has been approved. The owner thinks you'll be an excellent tenant.
+Oh, that's so good. It makes my day.
+Now, before you move in, you have to pay some fees.
+Fees, what are you talking about?
+You know--first and last month's rent, and the security deposit.
+Oh, of course. When you said fees, I was thinking of parking fees or something.
+That will come to $3,500, 2,500 plus $1,000. You can send me the check.
+I'll do that immediately. Where do I send it?
+Mail it to 3035 E Foothill Blvd, Pasadena, CA 91107.
+One more question. When can I move in?
+You can move in on the first. Stop by here and pick up your keys.
+Great! What's your phone number?
+My number is 626-555-3000.
+I'm John Smith. How can I help you?
+Hi, John. This is Terry Evans. I've got some good news for you.
+I hope you're from the lottery. Go ahead.
+The apartment owner was impressed with your interview. He has approved your rental application.
+Oh, my gosh. That's wonderful news!
+Of course, there are some fees to pay before you move in.
+Fees? I don't remember anything about fees.
+You know, the usual--first and last month's rent, and the security deposit.
+But, of course. You cannot move in unless you pay such fees.
+So, you can write me a check for $3,500. That's $2,500 and $1,000 deposit.
+No sooner said than done. Where shall I mail it?
+Just mail it to 3035 E. Foothill Blvd., Pasadena, CA 91107.
+So, when will I be able to move in?
+Move in on the first. Come on by my office, and pick up your keys.
+Sounds great! Tell me your phone number.
+Certainly. My office number is 626-555-3000.
+Warning about Late Rent Payment
+Hello, Nicole here.
+Nicole, this is Richard. I think you know why I'm calling.
+Oh, it's about the rent.
+Yes, this is the second month in a row.
+I thought there was a grace period.
+There is no grace period in the rental agreement.
+Oh, I guess I forgot.
+Well, when can I expect the rent?
+You'll get it by Monday.
+Don't forget the $50 late fee.
+Is that in the rental agreement?
+The late fee is circled in red ink!
+Oh, Well, I can't find my copy of the agreement.
+If you're late next month, I might give you an eviction notice.
+Hi, this is Nicole.
+Hi, Nicole. Richard here. I think you've got a good idea why I'm calling.
+Yes. It's about the rent, isn't it?
+Yes, your rent is late. This is the second month in a row.
+But I thought that I had a grace period.
+I told you last month that the rental agreement contains no grace period.
+Oh, I guess I was thinking about the last place that I lived.
+Well, tell me when I'm going to get your rent.
+I get paid tomorrow, so you'll get the check by Monday.
+Don't forget to include the $50 late fee.
+Are you sure a late fee is in the rental agreement?
+How could you miss the late fee? It's circled in red ink!
+I can't find my copy of the rental agreement. I know it's somewhere in my apartment.
+If you're late one more time, I'm probably going to evict you.
+Hello, this is Betty.
+Hi, Betty. Larry here. How many smoke detectors are in your apartment?
+Actually, I have two.
+Are the batteries fresh?
+Both batteries are good.
+Great. I need to come by and check them myself.
+No problem, when are you coming by?
+Thursday at noon. I'll let myself in if you're not there.
+Okay, remember to lock my door when you leave.
+I'll be in and out of there in just a few minutes.
+Hello, Betty. This is Larry. How many smoke detectors are on your ceiling?
+I have two smoke detectors.
+Do you have fresh batteries in both of them?
+Both batteries are pretty fresh.
+Very good. I have to come by there and check out all the detectors.
+Very good, when do you think you'll be coming over?
+I'll be by on Thursday at noon. You don't have to be there.
+I won't be home. Just remember to lock my door, okay?
+You won't even know that I've been there.
+Hello, Nicole? This is Jimmy in 309.
+Hello, Jimmy. What's up?
+You're not going to believe this.
+Believe me, I think I've heard everything.
+I can't find my mailbox key.
+Is that all? That's a lot better than losing your car keys.
+I had a duplicate, but I can't find it either.
+If you come by my place, I can loan you a key.
+There's no emergency. All I get is junk mail and bills.
+Can you wait till Wednesday? I'll make you two more keys.
+Sure, that'll be fine.
+Okay. I'll see you Wednesday. But it's going to cost you $2 per key.
+Can I speak to Nicole? This is Jimmy in apartment 309.
+Hi, Jimmy. This is Nicole. What's happening?
+You probably never heard this one before.
+Don't bet on it. I've been an apartment manager for a long time.
+I've looked everywhere, but I can't find my mailbox key.
+Well, that's pretty minor. I lost my car keys and house keys once.
+To make matters worse, I can't find my duplicate either.
+If you want, come over here and I'll lend you a key.
+No, there's nothing vital in the mailbox. Just junk and bills.
+If you can wait until Wednesday, I'll make two more keys for you.
+Wednesday's fine.
+Okay, I'll bring them by Wednesday. Have $4 ready for me.
+Hi, Nicole. This is Jimmy in 309.
+Hello, Jimmy. Can I help you?
+I've got a little problem.
+Tell me your problem, and maybe I can help.
+As if that wasn't bad enough, I also misplaced the duplicate.
+Well, if it's an emergency, come by here and I'll lend you a key.
+No, even if there's a bill in there, it can wait.
+If you don't mind waiting until Wednesday, I'll make two more keys for you.
+Oh, I can wait, believe me.
+Okay, see you Wednesday. They're not free, you know. It'll be $4.
+Calling the Landlord about Moving Out
+Good afternoon, Jim. This is Olivia.
+Oh, hi, Olivia. How can I help you?
+I'm going to be moving out.
+Oh, really? When are you leaving?
+I'll be leaving on the last day of June.
+Any particular reason?
+I got a new job.
+Congratulations! What is it?
+I'm going to be an ESL instructor at Pasadena City College.
+Great! By the way, what's ESL?
+ESL stands for English as a Second Language.
+Well, I'm glad it wasn't your neighbors causing you to move.
+Just because they play their TV loud enough for the whole complex?
+Yes, I know. I'm going to have another talk with them.
+Anyway, it's been nice knowing you for these past few years.
+You, too. Keep in touch, and good luck with your new job.
+How's it going, Jim? This is Olivia.
+Hello, Olivia. What's up?
+I wanted to let you know that I have to move out.
+I'm sorry to hear that. When are you moving?
+The thirtieth of June.
+May I ask why you're leaving?
+I found a new job.
+Good for you! What's your new job?
+I am an ESL teacher at Pasadena City College.
+Very good! What does ESL mean?
+ESL means English as a Second Language.
+Well, I'm glad you're not moving because of your neighbors.
+I can't tell you how happy I'll be not to have to listen to their TV.
+Yes, I'm going to tell them one more time to turn down their TV and keep it down.
+You've been a good apartment manager and a good person. I'll see you in June.
+Thank you. I hope your new job and new apartment are good for you.
+Hey, Jim. How are you? Olivia here.
+Hi, Olivia. What's going on?
+I just wanted to give you notice that I'm moving.
+Oh, that's too bad. What's the moving date?
+I'll be gone on the last day in June.
+Can I ask you why you're moving?
+I've been looking for a long time, and I finally found a good job.
+Very good! What's your new job?
+I'm going to teach ESL at Pasadena City College.
+Good for you! What does ESL stand for?
+ESL is English as a Second Language.
+Well, I'm glad you don't feel you're being chased out by your neighbors.
+Their TV is so loud you'd think they were stone deaf.
+I'll tell them one more time to turn down their TV. Then I'm going to evict them.
+Thanks for all your help over the past few years.
+Thanks. Good luck with your new neighbors and your new job.
+Looking for an Apartment
+How did you find your apartment?
+You can check on the bulletin boards at school for local housing.
+What if I need a roommate?
+There are websites that can hook you up with a roommate.
+How much do apartments cost around here?
+It depends on what you want. Do you want a one- or two-bedroom apartment?
+I just need a one-bedroom apartment.
+That will probably cost you around twelve hundred dollars a month.
+Would you come with me to look at apartments?
+I would be happy to look at apartments with you.
+When you need an apartment, where do you look for one?
+Our school has a link on its website for apartments.
+Can I share an apartment with someone?
+Some of the ads in the paper are from people looking for roommates.
+Are apartments expensive in this city?
+Do you need a single apartment, or is this for two people?
+I want a two-bedroom apartment.
+You can get that type of apartment for around fifteen hundred dollars a month.
+Would you have time to go look at apartments with me?
+I love apartment hunting. I'll be happy to go with you.
+Can you tell me the best way to look for an apartment?
+The local newspaper has ads for housing.
+Is there any way to find a roommate to share an apartment with?
+Sometimes you can post an advertisement saying that you need a roommate.
+What do landlords charge for rent?
+Would you like an apartment for just yourself, or do you need it for two people?
+There are two of us, but we only need a one-bedroom apartment.
+You should be able to easily find that for twelve hundred dollars a month.
+I really would appreciate it if you could come look at apartments with me.
+Sure, I'll go look at apartments with you anytime you want.
+Subleasing
+I heard that you're looking for an apartment.
+Yes. Who told you that?
+A friend of ours told me.
+Why are you asking?
+I was asking because I found an apartment.
+Why are you telling me this?
+I was wondering if you wanted to sublease with me.
+I sure would!
+Since we're subleasing, we can each pay half of the rent.
+How much is the rent each month?
+It's $1000 a month.
+That's wonderful.
+Are you still looking for an apartment?
+Who said I was?
+One of our friends let me know.
+Why'd you want to know?
+I found an apartment for lease.
+So what?
+I wanted to know if you would sublease the apartment with me.
+That's great, because this way we can go halves on the rent.
+What's rent?
+It's $1,000 each month, but it'll only cost us $500 a month each.
+I like the sound of that.
+Is it true that you're looking for an apartment?
+I am. How'd you know?
+I heard it from one of our friends.
+Well then, why do you ask if I'm looking for an apartment?
+I was thinking about leasing this apartment.
+What does this have to do with me?
+Would you like to sublease the apartment with me?
+I would love to!
+This way, we'll each have to pay only half the rent.
+How much is the rent?
+For each of us, it's $500 every month.
+Sounds good to me.
+Responding to an Ad for Roommates
+Hello, I was just responding to your ad.
+Which ad is that?
+The ad for a roommate.
+Great. Are you interested?
+Can we meet today?
+Of course, just tell me when and where.
+Why don't you meet me at 5:30 at Starbucks?
+That'll be perfect.
+We'll discuss the living situation and payments at that time.
+That'll be fine.
+Okay, I'll see you then.
+Hi, I'm calling about your ad.
+Which ad are you calling about?
+The ad for a new roommate.
+Are you interested in being my new roommate?
+Yes, I'm interested.
+I would love to meet you, if that's at all possible.
+That's fine, where would you like to meet?
+I would like you to meet me at Starbucks at 5:30.
+I can meet you then.
+We'll talk about the roommate situation then.
+Hey, I was wondering about the ad you have.
+What ad are you referring to?
+I'm calling about the ad for a new roommate.
+Oh, yeah. Were you interested in being a roommate of mine?
+I actually would like to be your new roommate.
+That's great. Would you like to meet me sometime today?
+Tell me where, and I'll be there.
+Let's meet at Starbucks at 5:30.
+Starbucks at 5:30 will be fine.
+I'll fill you in on all the details when we get together.
+All right, that sounds great.
+I'll see you at Starbucks.
+I finally found an apartment that I want to rent.
+Where did you see it?
+I saw it in this ad for apartments in today's newspaper.
+You found an apartment in the ads?
+I really did, but what's so great about it is that it's really affordable.
+Tell me about the apartment.
+Well, most importantly the apartment is beautiful.
+How much is the rent for the apartment?
+The rent is $725 each month.
+That's pretty cheap for out here.
+That's what I said when I found out how much the rent was.
+Congratulations on the new apartment.
+I found an apartment to rent.
+Where did you find this apartment?
+I found it in today's apartment ads.
+Really? I can't believe you actually found an apartment in the ads.
+I actually found it in the ads, and it's not too expensive either.
+I want to hear more about this apartment.
+All you really need to know is that the apartment looks great.
+How much will you have to pay for rent?
+Every month I'd only have to pay $725.
+For where we live, that is really inexpensive.
+It is, isn't it?
+I'm glad to hear that you finally found an apartment.
+I think I may rent out this apartment that I found.
+Oh, really? Where'd you find it?
+I was looking through the ads today, and I found it in there.
+In the ads? Are you serious?
+Yeah, and it's affordable too.
+I'd like to hear about this apartment.
+First of all, it's absolutely gorgeous.
+What is the rent each month?
+It's only $725 a month.
+That's amazing. The rent is very cheap.
+I know it is.
+It's a good thing that you read that ad today.
+Asking about the Apartment Location
+Hello, how are you doing today?
+I'm great.
+I wanted to ask about the apartment for rent.
+I was wondering if the apartment is located in a nice area.
+As a matter of fact, the apartment is in a wonderful location.
+What surrounds the apartment?
+There are many stores and restaurants surrounding the apartment.
+I promise you that you will love the location.
+From what you're telling me, it sounds like I will.
+Good, thank you.
+Can I ask you a few questions about the apartment?
+Ask whatever you'd like.
+I want to know if the location of the apartment is nice.
+I honestly believe that you will love the location.
+What kinds of places are around the apartment?
+Surrounding the apartment are great places to eat and stores to shop at.
+I'm sure that the location will be to your liking.
+I hope that you're right.
+How is everything with you today?
+I'm fine. Thank you for asking.
+I actually have a few questions about the apartment.
+What questions do you have?
+Is this apartment in a nice location?
+It is in a great location.
+Are there any stores near the apartment?
+You will find many stores and restaurants near the apartment.
+I guarantee that the apartment is in a beautiful location.
+Asking about the Neighborhood
+I wanted to ask you a few questions.
+What about?
+They are pertaining to the neighborhood that the apartment is in.
+Sure. What would you like to know?
+In all honesty, the neighborhood could be a little nicer.
+The neighborhood streets are a little dirty.
+Is there anything else wrong with the neighborhood?
+That's just about it.
+Hopefully the cleanliness problem will get better.
+I hope so, too.
+I have a few questions for you.
+What are your questions about?
+They're questions about the neighborhood.
+What are your questions?
+If you don't mind, would you tell me something about the neighborhood?
+I think the neighborhood could be better.
+What problems does the neighborhood have?
+A lot of the streets are rather unclean.
+What else is wrong with it?
+Nothing else that I can think of.
+Maybe in time they will clean up the streets.
+Maybe they will.
+May I ask you a couple of questions?
+What are these questions pertaining to?
+Just a few questions about the neighborhood.
+Okay. Ask away.
+Tell me about the neighborhood.
+The neighborhood does have its problems.
+What I mean is that the streets aren't all that clean.
+Are there any other problems?
+Other than it not being so clean, it's actually a nice neighborhood.
+I'm sure that the problem will eventually be fixed.
+Asking about Safety Features
+I really like this beautiful apartment!
+Thank you. Do you have any further questions?
+Yes, I was wondering about safety features.
+Yes, what are your concerns?
+How about fire alarms and escape routes?
+Every apartment has its own smoke alarm, and the whole building is on a sprinkler system.
+What about fire extinguishers?
+They are in the hallways on all of the floors. It is suggested that you buy an individual one for your own apartment.
+What about escape routes in a fire?
+The escape routes are clearly posted in the hallways.
+This apartment is everything that I am looking for!
+Thank you. Is there any other information that you need?
+Could you tell me a little about safety features?
+Yes, we have thought of safety. What, specifically, are you interested in?
+Are your fire alarms up to code?
+In case of a fire, we have a whole building sprinkler system. In addition, every apartment has its own alarm system.
+Do you have fire extinguishers available?
+Yes, there are fire extinguishers outside your door. You might want to buy a personal one for your kitchen.
+Are the escape routes clearly posted somewhere?
+There are fire exit signs in the hallway.
+What a great apartment!
+Thanks. Can I answer any questions for you at this point?
+Have you put any safety features into this building?
+Yes, your safety is of concern to us. What specifically were you interested in?
+Can you talk about fire safety?
+We have a global sprinkler system for the building and individual alarms for each apartment.
+Are there fire extinguishers anywhere?
+There are fire extinguishers in the hallways. If I were you, I would buy a personal one for the kitchen.
+How do I exit the building in case of a fire?
+There is a card that has escape routes posted on the inside of your front door.
+Asking about Floor Plan
+Hello, I'm calling about the apartment.
+I just wanted to find out some details about the apartment.
+Like what, exactly?
+Could you tell me about the floor plan?
+You can actually see the whole apartment for yourself.
+I don't have the time to go see the apartment.
+Actually, you can view this apartment online.
+I did not know that I could do that.
+I can give you the website to view that apartment on.
+That is really convenient.
+That's the reason we made the website.
+I was wondering about the apartment.
+Could you give me details about the apartment?
+What is it that you would like to know?
+Actually, it's the floor plan that I am inquiring about.
+If you would like to, you can see it for yourself.
+I am very busy and don't know when I can view the apartment.
+If you would like, you can view it online.
+If you would like the website, I can give it to you.
+That would be more convenient than having to go all the way down there.
+Convenience is the reason that we made the website.
+Could you help me with a question that I have about the apartment?
+I would like to know about the apartment.
+What exactly did you want to know?
+I was wondering about the floor plan.
+You could always take a look at the floor plan.
+I won't be able to come down to see it anytime soon.
+Well, if you're too busy, then why don't you just look at it online?
+That's actually possible?
+Yes. I'll just give you the website so you can see for yourself.
+I absolutely love how convenient that is.
+That's the exact reason why we thought of it.
+Visiting a Rental Agent
+I'm doing fine. Thanks for asking.
+I would like you to help me find an apartment.
+I will be able to help you with that.
+Thank you. I would appreciate that.
+Do you have any idea what kind of apartment you want?
+I need a two-bedroom apartment.
+Is there anything else in particular that you wanted?
+No. As long as it's a two bedroom, nice, and affordable, I'll take it.
+I'll see what I can do for you.
+Thanks for everything.
+Hi, how are you?
+I'm great, thank you.
+I would really like to find an apartment for rent.
+Tell me what kind of apartment that you are looking for.
+I really need a two bedroom.
+That's all I really need.
+I will try to find something for you, and then I'll give you a call in a couple of days.
+That would be fabulous.
+How is everything with you?
+Everything's fine with me.
+What did you need me for today?
+I need to find an apartment.
+I'm sure I can help you find an apartment.
+I would greatly appreciate your help.
+What kind of apartment did you have in mind?
+What's most important is that I get a two bedroom.
+Would you like anything else special?
+That's the most important thing.
+Give me a few days, and I'll call you when I've found something.
+Thank you so much for all your help.
+Good morning, is this the Renter's Hotline?
+Yes, what can I help you with?
+I have a question about discrimination in housing.
+What type of discrimination?
+I think that he doesn't want to rent to me because of my race.
+What made you think that your race was a problem?
+He seemed OK talking to me on the phone, but seemed to change his mind when he saw me in person.
+What else made you feel he was discriminating against you?
+Well, he had a 25 unit apartment building and everyone I saw there was his same race.
+Racial discrimination is very hard to prove, but if you would like to come down, we can go over a checklist that can help you build a case.
+I would like to speak with someone in the Housing Department.
+You have reached the right area. Can I help you with something?
+I think that I may have experienced discrimination in trying to rent an apartment.
+Can you be specific as to what type of discrimination?
+I felt that he didn't like me because I wasn't the same race that he was.
+How come you feel it was race that was the issue?
+When I showed up on his doorstep, he seemed bothered by my appearance.
+Is there anything else that made you feel he was using race as a factor in who he rented to?
+As I walked through the apartment building all I saw were people who were the same race as the manager.
+It is not easy to prove racial discrimination, but please go to our website which can help you file a formal complaint.
+Hello, is this the Legal Advice Line?
+You are in the right department. What can I do for you?
+I think that the landlord where I am trying to rent an apartment may be discriminating against me.
+Discrimination is a pretty broad term. What type, specifically?
+I have a feeling that he will not consider my application because of my race.
+Are you sure that race was the issue? What makes you feel this way?
+When he saw me in person, he seemed bothered by me although I seemed to be under consideration when I e-mailed him.
+Do you have any proof that he would not rent to you because of your race?
+I didn't see one person in that whole building who wasn't the same race as the manager.
+It is difficult to prove racial discrimination, but you may file a formal complaint in our office.
+Making an Appointment for an Apartment Viewing
+How are you today?
+Great, thanks.
+I would actually like to view the apartment for rent today.
+I'm sorry, but you won't be able to view it today.
+You have to make an appointment first.
+Oh, okay. Can I do that right now?
+Is this Friday okay?
+Is 6 o'clock Friday evening okay?
+Yes, I will schedule you for that time.
+Thank you very much. See you then.
+Is it possible for me to view the apartment today?
+Unfortunately, you will not be able to view it today.
+Why can't I view it today?
+You'll need to make an appointment to view the apartment.
+I understand. May I make an appointment then?
+How does this Friday sound?
+Friday at 6:00 pm would be perfect.
+That will be fine.
+Thanks for your help.
+I'm fine, thank you.
+Did you need help with something?
+If I could, I would like to view the apartment sometime today.
+That won't be possible today.
+You can only view the apartment with an appointment.
+I would like to make one right now if I can.
+Are you available this Friday?
+Can we do it at 6 o'clock?
+Your appointment for Friday at 6:00 pm has been confirmed.
+All right. I'll see you on Friday.
+Talking about the Lease
+I need to talk to you about something.
+What did you need to talk about?
+I have some questions about my lease.
+Exactly how long is my lease for?
+Your lease will be up in three years.
+What will happen if I move out before then?
+If you move out before then, you will not get your deductible.
+Because our contract says that you will live here for three years.
+Okay, I think that I understand.
+I'm glad you understand.
+Can we talk?
+I'm not too clear on some things about my lease.
+How many years is my lease for?
+In three years your lease will be up.
+Can I move out before those three years?
+If you do, I will keep your deductible.
+Why would you keep it?
+I would keep it because you would be breaking our contract.
+I get it now.
+I hope that I cleared things up for you.
+I would like to talk to you, if you have time.
+I want to discuss some things about my lease.
+What aren't you too sure about?
+Can you tell me when my lease is up?
+Your lease is for three years.
+If I ever decide to leave before the three years, will there be a problem?
+If you break the contract, then you will not receive your deductible.
+All right. I'm glad I could clarify things for you.
+I would love to rent this apartment.
+I'm happy to hear you say that.
+How much are you asking for every month?
+I'm renting this apartment out for $1050 a month.
+That is quite a lot of money for just one month.
+That is a fair price.
+What do you say to $850 a month?
+It's either $850 or nothing at all.
+I won't go any lower than $1050.
+Could you please go lower?
+That's the best I can do.
+This apartment is wonderful.
+I'm glad you like it.
+How much would I have to pay for rent?
+The rent is $1050 each month.
+That's way too much money.
+It isn't too much.
+How about if I pay $850?
+I can't take that.
+I can't go any higher than $850.
+I honestly don't know what else to tell you.
+You can't go any lower than that?
+If you can't afford $1050, then we have no deal.
+I think I may rent this apartment from you.
+How much are you looking to rent it for?
+For each month you would have to pay $1050.
+That is too expensive.
+I don't think that is too much for rent.
+How does $850 a month sound to you?
+That's not enough.
+That's the best that I can do.
+$850 a month is not enough money.
+Would you please reconsider?
+That's my final offer. Take it or leave it.
+I would love to rent out your apartment.
+The rent each month is $1050.
+Did you have a better price in mind?
+What about $800?
+That's way too low.
+I can't pay much more than that.
+How about $900 a month?
+Great. It was a pleasure doing business with you.
+That would be wonderful.
+Can you tell me how much I would have to pay for rent?
+The rent is $1050 every month.
+That's way too much.
+What is good for you?
+I can afford about $800 a month for rent.
+That's not high enough.
+How much more are you thinking?
+I can let it go at $900 a month.
+That's almost perfect.
+I can live with that too.
+I want to rent this apartment.
+You will have to pay $1050 every month.
+I can't afford that.
+What can you afford?
+I was thinking $800 a month.
+I'll need you to pay more than that.
+How much more?
+How does $900 every month sound to you?
+I can live with that.
+We have a deal then.
+Policy Towards Pets
+I was wondering if you allow pets in this building.
+We do allow some pets, but you must pay an additional five hundred dollar security deposit.
+What kind of pets do you allow?
+You may keep either one cat or one dog.
+Can cats and dogs be outside?
+Cats can be outside, but we want them collared or tagged so we know who they belong to. Dogs must be on a leash and are not allowed in the flowerbeds.
+Are there any special places nearby that I can walk my dog?
+There is a dog park down the block.
+Do many other tenants in this building have pets?
+Not too many, but you shouldn't have any trouble finding someone to share walks with.
+What is your policy towards tenants keeping pets?
+You may have a pet, but you have to pay an extra two hundred dollar cleaning deposit.
+How many pets can we have?
+You may have only one pet. You can have either a small dog or a cat.
+What is the policy as to where the pets can be outside?
+We ask that you keep your cats indoors or on your balcony. Dogs need to be walked to the street or park.
+Where can I walk my dog?
+There is a park down the street, but you must keep your dog on a leash.
+How many other people have pets around here?
+We have quite a few pet owners here, so if you need help finding a veterinarian, just ask around.
+Are renters allowed to have pets?
+We allow a small well-behaved pet, but you need to sign an agreement saying you'll pay for any damages.
+Do you allow both cats and dogs?
+We only allow a medium or small dog or a cat.
+Are there any special areas where animals are allowed or not allowed?
+Cats are to be kept indoors at all times. Dogs must be on a leash and with the owner when outdoors.
+Are there places where I can take my dog for a run?
+There are quite a few hiking trails nearby.
+Are there a lot of pets in this building?
+We don't have a lot of pet owners, but there are a few around if you have any questions about local pet supplies and dog parks.
+Checking the Apartment for Anything Damaged
+Do you like the apartment?
+I absolutely love the apartment.
+Everything is okay?
+I do have one problem with the apartment.
+I don't like all those stains in the carpet.
+We will have the carpet cleaned before you move into the apartment.
+I did not know that.
+I assure you that we will, and if there are any more problems, feel free to tell me.
+That was the only thing that I saw wrong with the apartment.
+I'm glad to know that you think the apartment is so nice.
+It's absolutely incredible. I'll take it.
+What are your thoughts on the apartment?
+I think that it's absolutely gorgeous.
+There aren't any problems with the apartment?
+I think that the apartment looks very nice, but I do see some problems.
+What problems?
+I did notice a few stains in the carpet.
+We will have the carpet cleaned before you move in.
+You will?
+Yes, but other than that, are there any more problems?
+That was the only thing that I saw that was wrong with the apartment.
+I'm happy that you find this apartment so appealing.
+It is. I love it.
+Asking a Friend to Help Move In
+Everything's fine with me. How about you?
+Remember when I told you I'm going to be moving?
+Yeah, I remember.
+Do you think you could help me move?
+Sure, that shouldn't be a problem. When?
+Are you busy this Saturday?
+I don't think I have any plans.
+Is 10 o'clock okay with you?
+That'll be fine. I'll see you then.
+Things are fine with me. What's going on with you?
+Would you help me?
+Help you with what?
+You do know I'm getting ready to move, right?
+I remember you telling me.
+Do you mind helping me move in?
+I can help you with that.
+Is this Saturday okay for you?
+I'm free this Saturday.
+Can you come help me at 10:00?
+That's perfect. I will see you on Saturday.
+Nothing much. What's up with you?
+Actually, I was wondering if you could help me with something.
+What would you like me to help you with?
+You know I'm going to be moving in soon?
+You told me already.
+I was just wondering if you could help me move in.
+Do you have plans on Saturday?
+No, I don't think so.
+How does 10 am sound to you?
+Saturday at 10:00? I can do that.
+Calling a Moving Company
+B: Great. Thanks for asking.
+A: Would you like our assistance with a move?
+B: Yes, actually I would.
+A: What would you like us to move for you?
+B: I need you to move my furniture.
+A: Could you tell me what kind of residence that we will be picking the furniture up from?
+B: The furniture is in my apartment.
+A: Where will we be moving it to?
+B: You'll be taking it to the house I just bought.
+A: All right. I just need both addresses, and we will take care of the moving for you.
+B: Excellent. Thank you very much.
+I am doing well.
+Did you need us to move something for you?
+That's exactly what I'm calling about.
+What exactly do you need moved?
+All my furniture needs to be moved.
+Where will we be moving your furniture from?
+I need it moved from my apartment.
+Where would you like us to move the furniture to?
+I need the furniture moved to my new house.
+All I need is a little more information, and we'll take care of the rest.
+Sounds great. I'm glad you could help me.
+Great. Thanks for asking.
+Would you like our assistance with a move?
+Yes, actually I would.
+What would you like us to move for you?
+I need you to move my furniture.
+Could you tell me what kind of residence that we will be picking the furniture up from?
+The furniture is in my apartment.
+Where will we be moving it to?
+You'll be taking it to the house I just bought.
+All right. I just need both addresses, and we will take care of the moving for you.
+Excellent. Thank you very much.
+Calling the Water Company
+Is this the water company?
+This is the water company. May I help you?
+As a matter of fact, you can.
+In a few days, I'm going to be moving.
+Okay, and what do you need help with?
+I'm going to need the water turned on in my new house.
+When do you need your water turned on?
+I'm going to need it done by Saturday.
+What do you need from me in order to do that?
+All I need is your name, social security number, and your new address.
+Am I speaking with someone from the water company?
+Yes. Can I assist you with something?
+I certainly hope so.
+I will be moving into a new house in a few days.
+What exactly do you need my help with?
+I'll need you to turn the water on in my house.
+What day are you moving in?
+I'm moving in this Saturday.
+We can help you with that.
+Do I need to give you any information?
+You need to give me your full name, social, and the address of your new house.
+I need to speak with someone from the water company.
+Is there something that I can do for you?
+Actually, there is something I need help with.
+How may I assist you?
+I'm going to be moving in a few days.
+How can I assist you with your move?
+My water needs to be turned on.
+Okay, when exactly will you need this done?
+I need the water turned on no later than Saturday evening.
+I can have it turned on for you by then.
+What information do I need to give you to have that done?
+What I need is your social security number, full name, and your new address.
+Where to Put the Furniture
+Thank you for helping me move.
+Don't mention it. Where do you want all your furniture?
+Okay, I want you to put the sofa in the living room.
+Would you like me to put it anywhere special?
+No, up against the wall is just fine.
+Where would you like this table?
+That table should go in the dining room.
+Would you like me to put it anywhere in particular?
+You can place it right in the center of the room.
+How are things looking so far?
+I think the furniture looks nice in here.
+I appreciate all your help with this move.
+It's the least I could do. Tell me where to put your furniture.
+That sofa should go in the living room.
+Was there a certain place you wanted the sofa?
+I think it would look best up against that wall.
+What should I do with this table?
+I want that table in the dining room.
+Should I just put it down anywhere?
+I want it in the center of the room.
+What do you think? How does it look in here so far?
+I love the way things are looking.
+That's exactly what I was thinking.
+I really am thankful for you helping me move.
+It's no problem. Just let me know where you want me to put everything.
+I would like you to put that sofa in the living room.
+Is there any particular place you want it?
+Set it against that far wall.
+What do you want me to do with this table?
+That's the dining-room table of course, silly.
+Where in the room do you want it?
+It would look best in the center of the room.
+Do you like where everything is so far?
+Everything looks great.
+Yeah, I agree.
+Greeting a Neighbor
+Hello, it's nice to meet you.
+It's great meeting you too.
+Did you just move in?
+I moved in this past weekend.
+I had no idea that house was sold.
+I had to buy. The first time I saw it, I fell in love.
+It is a beautiful house.
+Have you been living here long?
+About 20 years now.
+Wow! That's a long time.
+Hopefully we will be neighbors for a lot longer.
+I love this house too much to ever move.
+It is very nice meeting you.
+I'm happy to meet you also.
+When did you get moved in?
+Just this past weekend.
+I didn't even know the house got sold.
+I absolutely love this house, so I had to buy it.
+I understand, because the house is extraordinary.
+How many years have you been living in your house?
+I've been living here for over 20 years.
+Twenty years? That is a very long time.
+I hope that we remain neighbors for a while longer.
+I could never move out of this house.
+Is there anything specific that I should know about where to park my car?
+You have an assigned place in the back of the building with your apartment number on it.
+Are there any other spots available to me?
+You will see several visitor and unmarked spots. These are available on a first-come basis.
+What if there is nothing else available?
+You can park on the street, but you have to pay attention to the rules.
+What are the rules?
+Most of the laws are posted on the signs, but you also cannot park anywhere on the street between two and six in the morning.
+Are the parking tickets expensive around here?
+Parking tickets are very expensive, and if you don't pay them they may tow your car away.
+What are the rules about where I should park?
+Your assigned space is in the back where I marked it on the map.
+Can I park anywhere else in the parking lot?
+There are a few spots back there for visitors. They are unassigned.
+Where can my guests park if all of those spots are gone?
+You can park on the street, but you can get ticketed for failing to follow the rules.
+How will I know what the rules are?
+Just pay attention to street cleaning days and limits on the hours you can park out there.
+Are parking citations costly?
+Yes, parking tickets can be extremely expensive.
+Where can I park my car?
+You have one assigned place right beside your own apartment.
+Are there any other open spots available in the parking lot?
+Your guests can park in a visitor or unmarked spot if one is available.
+Is there any place else to park if the spots are all gone?
+There is always street parking, but you must obey the laws about parking out there.
+Do they post the rules anywhere?
+The rules for parking are all clearly posted. Just follow them and you'll be OK.
+Do you have to pay a large fine for a parking ticket?
+You don't want to get a parking ticket. You have better things to spend your money on!
+Trash and Recycling
+Can you tell me where we are supposed to take our trash?
+Put it in the dumpster next to that stairway.
+What day do they pick the trash up?
+They empty the trash every Wednesday.
+Are we supposed to mix our recyclables in, or sort them?
+We are supposed to sort our recyclables.
+Is there a special container for recyclables?
+You should have a blue container in your kitchen. Empty that into the blue bin downstairs.
+What about plant material?
+Anything that can be composted goes into the bin with the green lid.
+I need a little help about where to dump my trash bags.
+Put them in the parking lot dumpster near the parking spaces.
+When is trash day?
+Trash day is Wednesday.
+Do they sort our recyclables, or do we do it?
+They expect us to take out our recyclables.
+Do we put our recyclables in a separate bin?
+Just take all of your recyclables to the blue bin downstairs.
+Is there a special bin for yard waste?
+All material to be composted goes into the bin with the green lid.
+Where are the dumpsters located in this building?
+Right now they are in the front of the building for pickup.
+When do the dumpsters get emptied?
+They usually get emptied Wednesday, unless there is a holiday in there somewhere.
+Are there separate containers for recyclables?
+We don't mix our recyclables with regular trash.
+What does the container for recyclables look like?
+All of your recyclables go into the blue bin.
+How about composting materials?
+We have a great composting program that uses the bin with the green lid.
+Laundry Room Rules and Hours
+So where are the laundry rooms located?
+There is a laundry room located at the end of each hallway.
+Can I use them at any time?
+All laundry rooms are locked at eleven at night and re-open at seven in the morning.
+Do they use change?
+You should bring quarters for the washer and dryer.
+Can you buy detergent in the laundry room?
+Yes, there are detergent dispensers in the laundry room.
+Are there rules in the laundry room?
+Yes, if you leave your laundry in the machine unattended, people can just take it out and put it on a table so they may use the machine.
+Does every floor have a laundry room?
+Each hallway has a laundry room located near the stairway.
+Are they open for use around the clock?
+The laundry room near the recreation center is open twenty-four hours a day. The rest have posted hours.
+Do I need to bring coins with me?
+The washers and dryers require correct change, but there is a change machine in the laundry room.
+Are there any detergent dispensers in the laundry room?
+Yes, but they are expensive.
+Are there any specific rules about doing laundry?
+Yes, you are only supposed to tie up three machines at a time for your own use, so that the other machines are available for other tenants.
+A: Do you have a lot of laundry rooms?
+B: We have many laundry rooms. Your closest one is next to the pool.
+A: Are there any certain hours we can use them.
+B: All of the laundry rooms can be used whenever you need to use them.
+A: What type of payment do they require?
+B: If you bring dollar bills, you will be in great shape.
+A: Is there any place to buy laundry detergent in the laundry room.
+B: There are detergent dispensers in the laundry room but it is cheaper to buy it across the street at the market.
+A: Is there anything I should know about the rules of the laundry room?
+B: Yes, we ask that you please clean up after yourself as in wiping up spilled detergent or cleaning out lint screens.
+Neighbors and Help
+Hi, I am your new neighbor and was wondering if I could ask you a question or two.
+Hi! I would be happy to answer any questions you might have.
+Everyone here seems very friendly.
+Yes, many of us have lived here a long time and know each other well.
+I have lived in this building for ten years.
+When I get settled, would you consider giving me a list of places you use, like cleaners and grocery stores?
+I can help you with that. Would you like to go to the local farmer's market with me this morning?
+Fine. I'll knock on your door around ten o'clock then.
+Hi, I am your new neighbor and would like to ask you about a few things.
+Hi, nice to meet you. Sure, ask me anything you need to know.
+So far, everyone that I've met seems so helpful.
+We all seem to get along pretty well.
+Have you lived here a very long time?
+I first moved here ten years ago.
+I am having trouble figuring out the best places to shop and such.
+I am a pretty good source for all of that information. You could go to the local farmer's market with me today if you wish.
+I would love to go with you!
+I'll be leaving around ten o'clock. I'll pick you up.
+Hi, I just moved in next door and have a few questions.
+Hello, and welcome to our building. I would be happy to help you with your questions.
+You all seem like a very pleasant group of tenants.
+We all try and help each other out when we can.
+When did you first move here?
+I have lived here for quite awhile. Ten years!
+I am not from around here, and I don't know where basic services are.
+I could help you find everything you need. Would you be interested in going to the local farmer's market with me?
+What a great opportunity to get oriented to the neighborhood!
+It starts around ten. Just meet me in the parking lot around 9:45, and I'll take you there.
+Visitors and Extra Tenants
+I have a question about extra people living with me in my apartment.
+You may have one roommate, but they need to have an approved application on file with us.
+What about overnight guests?
+An occasional overnight guest is not a problem.
+How many days could I have an extra guest?
+We usually consider any guest who stays over a week to be a possible problem.
+Will I have to pay extra for roommates or visitors?
+If you are given permission for extended visitors, you may be charged extra.
+Can my guests use the pool and laundry room?
+Your guests may use the pool and laundry facilities, but you must be with them at all times
+Can I have roommates in my apartment?
+You may have one roommate, but they need to pass a credit check.
+Can overnight guests stay with me?
+You may have an overnight guest, but they may not stay for an extended period of time.
+How long could my friends and family stay with me without it being a problem?
+No one can stay with you for over a week without special permission.
+Will I owe extra money for more people staying in my apartment?
+You are not charged extra for a roommate or short-term guests.
+If I have visitors, may they use the pool?
+Your short-term guests may use the facilities with you present.
+What about roommates in my apartment?
+You may have one roommate, but their name must appear on the lease.
+Can I have someone visit me for a short period of time?
+We understand that a family member or friend may visit from time to time. Just make sure that they are not moving in with you.
+How many days could a friend stay without it being a problem?
+You cannot have an extra tenant for over a week, unless we give you special permission.
+Will I be charged extra money for having roommates or visitors?
+A roommate or a short-term guest would not cost you anything extra.
+Can my family and friends use the facilities when they visit me?
+Your guests may not use the facilities unless you are with them.
+I need your help with something.
+I somehow locked myself out of my apartment.
+How did you lock yourself out?
+I'm really not sure.
+Where's your key?
+I locked it inside the house.
+I do have a spare key to your door.
+May I use it, please?
+Okay, but once you get in, bring my key right back.
+I will, and thank you so much.
+Make sure to keep your key with you next time.
+I'm locked out of my apartment.
+What did you do to lock yourself out?
+You don't have your key?
+It's inside of my apartment.
+I have a key to your apartment.
+Could I borrow it for just a second?
+All right. Bring it back when you're done.
+Great, thanks a lot.
+I hope you'll be more careful next time.
+I really need you to do something for me.
+I can't get into my apartment.
+How'd you manage that?
+Do you know where your key is?
+It's inside my apartment.
+I have a spare key.
+Will you let me use it to get inside?
+Sure. Remember to give it back when you're finished.
+I appreciate this.
+No problem. Try not to lock yourself out again.
+Noisy Neighbors
+Those neighbors of mine are so noisy!
+Yes, I can hear them. What is that pounding sound?
+I think that they are hammering nails to hang pictures.
+How often do you hear them making noise?
+They play their music really loud, and I can hear it.
+Have you spoken to them about the noise problem?
+No, I haven't spoken with them about it.
+What else do you hear that bothers you?
+I hear a lot of plumbing sounds, like the toilet flushing and the dishwasher running.
+If this continues, I would speak to the manager.
+I am really losing patience with my noisy neighbors!
+They are noisy, all right. What do you think is making that sound?
+I think they are hammering some new flooring down in their living room.
+Do they usually make a lot of noise?
+I can hear music through the walls all the time.
+Do you ever tell your neighbors about the noise problem?
+No, I don't know them very well.
+Are there any other sounds that you can hear?
+I hear them talking loudly a lot, and their television is really loud.
+I would talk to the manager if the noise continues.
+Those noisy neighbors of mine are driving me crazy!
+Yes, they are very noisy. What do you think they are doing in there?
+Someone said they are installing some countertops in their kitchen.
+Is there usually a lot of noise coming from over there?
+Whenever they play music, I can hear it coming through the walls.
+Do your neighbors know that you can hear them?
+I mentioned it to them once.
+Are you ever disturbed by other sounds?
+They have a lot of noisy parties that get out of hand.
+I think that you should talk with the manager to see if he can help you.
+Asking the Neighbor Not to Make Noise
+I was meaning to talk to you about something.
+Were you having a party in your apartment last Friday?
+Yes, I had a little party.
+It was very loud.
+I didn't intend on being too loud.
+It's fine if you want to have people over, but I couldn't sleep with the noise.
+I really do apologize for all the noise.
+Next time, do you think that you could keep it down?
+Will do.
+Okay, and once again I'm sorry for keeping you up.
+May I talk to you?
+Did you have a party Friday?
+I did have a few people over.
+It was way too loud.
+I didn't realize I was making a lot of noise.
+I couldn't sleep with how loud it was.
+I'm sorry for being so loud.
+Could you try not to be so loud the next time?
+I'll make sure to do that for you.
+Thanks, I would appreciate it.
+Let me apologize again for the noise.
+We really need to talk.
+What do we need to talk about?
+Was there a party going on in your apartment on Friday?
+I did throw a party on Friday.
+You were quite loud.
+I really didn't mean to be loud.
+I don't mind if you have company, of course, but the noise made it difficult for me to sleep.
+I am sorry if my party kept you up.
+It's all right, but next time could you try to keep it down?
+I will try to.
+Thank you, because that would be great.
+You're welcome, and I apologize for the inconvenience.
+Poor Area Lighting
+I would like to speak with the manager about some safety concerns.
+This is the manager. What can I do for you?
+I was parking my car last night in the garage area, and it was very dark out there.
+Is this the first time you noticed this?
+The lighting has always been bad, but it seems to be getting worse.
+We are trying to save electricity, so we put in new energy-saving bulbs. Maybe that was the problem.
+Whatever the problem is, it needs to be fixed.
+Why do you feel this is so unsafe?
+It is unsafe because it allows people to hide in there and jump people and rob them.
+I will go out there after dark and check it out. Thanks for bringing it to my attention.
+Could I speak with the property manager about a problem I had last night?
+I am the property manager. What was the problem that you experienced?
+Have you noticed that the lighting in the garage area is almost nonexistent?
+Has this been a problem for you in the past?
+I just moved here recently, so I really don't know how long it has been like this.
+Maybe some of the bulbs were burned out.
+All I know it that it feels very unsafe out there at night.
+Do you really think it is that unsafe to have a few dark patches here and there?
+It is unsafe because a rapist could hide in there and attack women.
+I will have the night manager look into it. Thank you for telling me about it.
+I had a problem last night in the parking lot and would like to speak to the manager.
+This is the manager speaking. How can I help you?
+I got out of my car in the parking area, and the area was not lit very well.
+How long have you noticed this problem?
+This is the first time that I noticed it.
+Maybe you were just parking in a shadowy area.
+Regardless of the cause, the problem needs to be taken care of.
+I am not sure that having a few shadows here and there is such a problem.
+It is unsafe because people can't see where they are walking and could have an accident.
+When it gets dark tonight, I will take a look. I appreciate your concern.
+Recreation Area Problems
+Could I speak with the manager about some problems in the pool area?
+My apartment is next to the pool, and there seems to be some really late-night partying going on out there.
+The hours for the pool are eight in the morning to ten at night. Is the noise that you are hearing later than that?
+Yes, sometimes people are in the Jacuzzi at midnight!
+Did you call the night manager?
+No, I didn't really know if anyone was around that late.
+I am going to give you my number to call if it happens again.
+You are welcome. I will be sending letters to tenants to remind them of the rules.
+I had some concerns about the pool and Jacuzzi area and would like to speak with someone.
+I can help you with that. What are you having problems with?
+I live right next to the pool, and late at night it is really noisy out there!
+There is not supposed to be anyone in the pool area after ten o'clock at night. Are you noticing people out there any later?
+I've heard people out there at one in the morning!
+Did you contact anyone?
+No, I just waited until now to tell you.
+I will give you the direct line to call to report this when it is happening
+You are welcome. Evidently a few people need some reminders.
+I was wondering if I could speak to someone about some concerns of mine with the pool area.
+I can answer any questions that you might have. What are your concerns?
+I enjoy living next to the pool, but it gets really loud out there at night.
+The pool is supposed to be closed after 10:00. Are you saying that people are partying later than that?
+There have been parties out there that haven't ended until two in the morning!
+Did you call the front desk?
+Yes, I tried, but no one picked up.
+You can have my personal line to call if this happens again. Do not hesitate to call.
+Thank you for taking care of this for me.
+Thank you for bringing it to my attention. We will send reminder memos to help people remember what the rules are.
+Fumigation and Relocation for a Night
+Hi. I wanted to talk to you about the letter we received about fumigating the building.
+Yes, I would be happy to help you with that. What do you need to know?
+Do we have to leave our apartment on the day they do it?
+You will have to vacate your apartment for a 36-hour period.
+Will you be paying for our hotel room?
+Yes, I will be paying for all the rooms.
+What if I want to stay at a different hotel?
+I received a group rate at this hotel, but I will pay the equivalent price if you bring me a receipt.
+What if I stay with friends?
+If you do not stay in a hotel, I will give you fifty dollars for the inconvenience.
+Is there anything else we have to do?
+Yes, your letter also mentions what food you need to remove.
+Good morning. I had some questions about the fumigation letter we received.
+I am here to answer your questions. What do you need clarification on?
+Will I have to find somewhere else to go on that day?
+You cannot stay in your apartment for 36 hours while it is being fumigated.
+Are you going to pay us for the hotel room you mentioned in your letter?
+The rooms have already been reserved and paid for.
+If I don't like that hotel, can I stay somewhere else?
+I got a great deal at this hotel, but you can choose a room of equal or less value at another hotel.
+I have my pets to think of and I'd rather stay with my parents.
+You will be given fifty dollars for the night.
+What else do we need to think about?
+The letter also tells you about storing and removing your food.
+Hello. Could you help me understand a few things about the fumigation letter?
+It would be my pleasure to help you. What is your question?
+Can I still stay in my apartment while they are doing this?
+You and your pets will have to leave your apartment for 36 hours.
+Are you putting us up in the hotel you mentioned, or do we have to pay for it?
+We will be paying for the rooms.
+Do I have a choice as to what hotel I stay in?
+If you want to switch hotels, just bring me the receipt and I will reimburse you for the same amount of money that I would have spent on you.
+I think I might just go stay with my boyfriend.
+If you have another place to stay, you will get fifty dollars for the night.
+What other safety precautions do we need to take?
+The letter you received includes a checklist that tells you how to store your food.
+Key and Lock Problems
+I need to speak with the manager, please.
+Yes, this is the manager. How may I help you this morning?
+We are having problems getting into our apartment.
+Is this the first time that you have tried this key since I gave it to you?
+Yes, this is the first time that we have tried this key.
+Does the key go into the lock okay?
+It fits in the lock just fine.
+Let's try it one more time. Just try to gently slide the key in the deadbolt and turn it to the right.
+It still doesn't work.
+I will come up to help you right away. I'll bring another key to try.
+I need to speak with the manager right away.
+The manager is not here right now. May I take a message?
+Our key doesn't seem to be working in our lock.
+How many times have you used this key in the lock?
+We have already used this key successfully before.
+Does the key fit in the lock?
+It is really hard to get it into the lock, but it does go in.
+Make sure you are on the top lock. Put the key in and try turning it to the right.
+I can't get it to work.
+Could you return to the manager's office? I have another key that I would like you to try.
+Good morning. Could I speak with the manager, please?
+I am the assistant manager. Is there something I can help you with?
+The key you gave us to our apartment doesn't seem to be working.
+Did this key work okay for you before?
+We were using my roommate's key before and never really tried this one.
+Does the key seem to belong in that lock?
+It doesn't really fit at all.
+Try putting your key in the top lock one more time and turn it to the right.
+It works now, but it didn't work before.
+We have been having trouble with that lock. I will call a locksmith right away.
+Calling the Landlord to Report a Leak
+A pipe burst in my ceiling.
+There is water dripping from my ceiling.
+Is it causing a flood in your apartment?
+No, but my carpet is getting wet.
+How long has this water been dripping?
+It only started leaking today.
+I'll have someone come down to fix it right away.
+I apologize for the inconvenience.
+I'm calling about a problem with my apartment.
+Tell me what the problem is.
+There must be a leaking pipe in my ceiling.
+There is water leaking from my ceiling.
+Is the water flooding your apartment?
+It's not flooding, but my carpet is beginning to smell.
+Has it been leaking long?
+I believe it began leaking today.
+Someone will be right up to fix it.
+Let me also apologize about the problem.
+I have a problem that needs fixing immediately.
+I think that a pipe broke in my ceiling.
+The ceiling is wet and water is dripping onto my carpet.
+Your apartment isn't flooded, is it?
+Not yet, but my carpet is wet.
+When did this all start?
+It just started today.
+I will send a plumber up to fix it right now.
+I'm sorry about the problem.
+Roof Leaking
+May I speak with the property manager, please?
+Hello, this is the property manager. How may I help you?
+During that horrible rainstorm last night, my roof began to leak.
+What room was the leak in?
+It was in our bedroom.
+Are you on the top floor, or is there another apartment above you?
+We are on the top floor.
+I will be sending someone out as soon as I can get hold of the roofer. Will you be home this morning?
+Yes, we will be in all morning.
+Fine. If you do end up going somewhere, we can just use our pass key.
+Good morning. I need to speak with the property manager, please.
+Good morning. You are speaking to the property manager.
+While it was raining last night, water started leaking in from the ceiling.
+Was it leaking in the bedroom?
+It was in the living room.
+Can you tell me which floor you are on?
+We are on the bottom floor.
+I would like to look at the leak. Will you be home this morning?
+Yes, someone will be here to let you in.
+Just in case you have to leave, we will just use the master key.
+I need to talk with the property manager right away!
+This is the property manager. What seems to be the problem?
+This morning, when we woke up, there was water pouring in from the ceiling!
+Could you tell me what room had the leak?
+There were several rooms, but the worst leak was in the bathroom.
+Could you please remind me which floor you are on?
+We are on the second floor, one of the middle floors.
+I will be sending the assistant manager to check it out. May we look at it this morning?
+Actually, I have to go to school right now.
+If you aren't there, we will use our master key to get in and check things out.
+Plumbing
+I am having some plumbing problems and need them fixed.
+What exactly is wrong with the plumbing?
+The toilet flushes really slowly.
+Are there any problems with the plumbing in the kitchen?
+Both the kitchen and the bathroom plumbing are messed up.
+How long have you had these problems?
+It has been going on for a while, but just started to get worse this morning.
+I will send someone out to take a look at the problem. Will you be home this afternoon?
+Yes, I will be home this afternoon.
+Fine. I will be there around 2:00. If someone is not there, I will use my key to get in.
+I just moved into my apartment, and the plumbing is not working.
+Can you describe the plumbing problems you are having?
+The bathtub barely drains at all.
+Okay, the bathroom plumbing needs looking at. What about the kitchen plumbing?
+Neither the kitchen nor the bathroom plumbing is working well.
+Has this problem been going on for a long time?
+It just started happening last night.
+I will be coming over to look at it this afternoon. Will you be there?
+I will not be home.
+I can always use my key to get in, but I would prefer that you be there.
+The plumbing in my new apartment is not working.
+I need you to tell me what the problem is.
+The bathroom sink is stopped up.
+Is the kitchen plumbing messed up also, or just the bathroom plumbing?
+Just the bathroom plumbing seems to have a problem.
+Did this just start happening, or has it been going on for a while?
+Everything worked beautifully until a few hours ago.
+Are you going to be home so I can come by and take a look at the problem?
+I am not sure if I will be home later.
+I will be coming by around 10 this morning. If you aren't there, I'll just use my key.
+Threatening not to Rent
+Do you like the apartment so far?
+I see a problem.
+I noticed that the faucet in the kitchen is leaking.
+That's no big deal.
+It's going to be a problem when my water bill comes.
+What do you want me to do about it?
+I would like you to fix the problem.
+I won't be able to do that right now.
+Well, I won't be able to rent the apartment until the problem is fixed.
+Fine, I'll have it fixed for you.
+I'm happy that we've come to an agreement.
+How do you like the apartment?
+I like the apartment, but I see something wrong with it.
+There's a leaking faucet in the kitchen.
+That isn't a problem.
+That leak is going to raise my water bill.
+What can I do?
+You need to fix it.
+I can't right now.
+I won't rent it if the faucet isn't fixed.
+I will fix it for you.
+I'm glad you finally agree.
+What do you think of the apartment?
+I like it, but there is one problem.
+What problem is that?
+The faucet in the kitchen is leaking.
+I don't understand what the big deal is.
+That leak is a problem for my water bill.
+What you would like me to do about it?
+The leak must be fixed.
+I won't be able to fix it at the moment.
+I will not rent the apartment with that leaking faucet.
+If that's the case, then I will fix the faucet.
+Thanks for understanding.
+I would like to make an appointment to discuss the problems I keep having with my apartment.
+Are you having problems? This is the first I've heard of it.
+We gave you a list of problems last week.
+What kind of problems are you talking about?
+The garbage disposal doesn't work, we have rats, and the toilet is backed up.
+Maybe I could get back to you in a few weeks. I am leaving on vacation this afternoon.
+These things are your responsibility, and you need to fix them immediately.
+Don't tell me what to do! I'll get to it when I get around to it!
+If these problems are not addressed immediately, I will be contacting the health department this Friday.
+I'll be right over!
+We would like you to stop by again so we can show you some more problems that have come up with our apartment.
+I am kind of busy right now, but maybe later next week I could stop by.
+We sent you an e-mail the first week we moved in; it listed the problems we found.
+What problems did you find?
+The roof leaks when it rains, there is mold on the bedroom walls, and the dishwasher doesn't work.
+I don't really consider any of that to be my responsibility. You can fix those things yourself.
+Maintaining basic health and safety standards is your responsibility.
+I am maintaining the building. You are way too picky!
+Unfortunately, you won't be getting a rent check unless these problems are fixed by Friday.
+You wouldn't dare do that!
+You really need to look at some of the problems we are having with the apartment.
+That apartment never had any problems before. Are you sure the problem isn't you?
+We spoke with you the first week we moved in about things that you promised to fix.
+Where do you think you have problems?
+There is no hot water, the bedroom has a broken window, and there are rats in the kitchen.
+You know, no one else who has been in that apartment has had a problem before.
+You are obligated to maintain your building and my apartment.
+I will fix these problems when I get around to it.
+I will be withholding my rent check this Friday unless these problems are addressed immediately.
+You can't do that! It's illegal!
+Asking the Landlord about Fixing a Problem
+I'm having a problem.
+A pipe burst in my wall.
+Is the pipe causing any water damage?
+The water is causing mildew.
+I can come fix the pipe sometime tomorrow.
+Can I just call someone myself to fix it?
+I don't think that would be a good idea.
+You won't do it until tomorrow.
+I guess you have a point.
+So, I can call someone to fix it?
+Go right ahead.
+I have an issue.
+There is a leaking pipe in my wall.
+Is there any water damage?
+There is mildew.
+I'll go to your apartment tomorrow to fix the pipe.
+Why can't I call someone to fix it today?
+I'll just do it myself.
+I need it done today.
+You're right about that.
+Are you okay with me calling a plumber?
+There is a problem in my apartment.
+A pipe broke in my wall, and water is leaking.
+Is the water causing any damage?
+Yes, it's creating mildew on the walls.
+I won't be able to fix the pipe until tomorrow.
+I can call a plumber to fix it right now.
+I'll do it for you.
+You can't do it until tomorrow, and I need it fixed now.
+You're okay with me calling someone?
+I'm all right with that.
+Explaining the Problem to the Plumber
+Thank you for coming.
+You're welcome. What's the problem?
+I have a leaky pipe.
+Where exactly is the pipe?
+The pipe is behind a wall in my bathroom.
+How long has the pipe been leaking?
+It began leaking a couple of days ago.
+I must tell you that in order to get to the pipe, I must tear down that wall.
+That won't be a problem?
+Not as long as it gets fixed.
+All right, I will start working now.
+No problem. What's wrong?
+A pipe in my apartment is leaking.
+Where is the pipe?
+The pipe is in my bathroom.
+Can you tell me how long the pipe has been leaking?
+The pipe has been leaking for a couple days.
+You do realize that I will need to rip down your wall to get to the pipe, right?
+Yes, I'm aware of that.
+Is that all right?
+I just need the problem fixed.
+I'll get started on it now.
+I'm glad you could make it.
+It's my job. What can I help you with?
+I think a pipe burst in my apartment.
+In what room is this pipe?
+You'll find the pipe in my bathroom.
+When did the pipe start leaking?
+It's been leaking for a couple of days now.
+I will need to tear down that wall to fix that pipe.
+I understand.
+You're fine with that?
+I just want the problem taken care of.
+Okay. I will begin working on it now, if you'd like.
+Calling the Police about a Burglary
+Thank you for coming, officer.
+I was in school all day and came home to a burglarized apartment.
+Was the door locked when you left?
+The door was still locked when I came home, so maybe they came in through a window.
+Do you live here alone?
+I have a roommate, but she is still at school.
+Have you seen anyone suspicious in the neighborhood?
+No, nothing unusual.
+Well, I am going to check the windows and look for fingerprints. I want you to figure out what is missing.
+I appreciate you coming so quickly, officer.
+Whoa, what a mess! What happened here?
+Apparently while I was at school today, someone decided to help themselves to the contents of my apartment.
+Was everything locked up when you left?
+I think that they broke in through a window.
+Do you have a roommate?
+My boyfriend lives here with me, but he is out of town right now.
+Have you noticed anyone unusual around lately?
+Actually, my neighbor asked me if I knew who was parked across the street the other day.
+Let's go through your rooms and try to figure out what has been taken.
+Thank God you are here, officer.
+I came as soon as I could. What a mess!
+When I left for school today, everything was fine. Then I came home to find my apartment had been broken into.
+Was the door locked when you came home?
+I don't think they came in through the door; maybe they entered through the window.
+Does anyone else live here?
+I live here alone.
+Have you noticed any strangers or parked cars around here recently?
+I really haven't been home very much lately.
+Let's figure out what is missing and see if there are any fingerprints left behind.
+Talking about Apartment Upgrades
+I really like the apartment, but I was wondering if I could change some things.
+What would you like to change?
+I would like to have different carpet.
+I would be willing to put in a different color carpet if you pay the price difference.
+How much more would it cost?
+It would cost between 2 and 10 dollars more per square yard.
+While I am at it, would it be possible to switch paint colors?
+I would be willing to look at a different color. You need to bring me a sample.
+When can my apartment be painted and ready to go?
+You can have the new carpet and paint by next Monday.
+This apartment is great, but could I upgrade a few things?
+What are you unhappy with?
+I want to have a different color carpet.
+If you agree to pay more money, you could upgrade the carpet.
+Would it cost a lot more?
+It could be as little as 2 dollars or as much as 10 dollars more per square yard.
+I was also wondering if it would be possible to pick a different paint color.
+Bring me a paint sample to look at, and I will consider it.
+When can you finish with the new carpet and paint?
+Your new apartment can be recarpeted and repainted by next Tuesday.
+I think that I would enjoy living here, but I would like to make improvements.
+What would make this apartment better for you?
+I think that it would look better with a better quality carpet.
+You can have a different carpet, but you have to pay more if it costs more.
+How much more would it cost to upgrade?
+It could vary quite a bit, between 2 and 10 dollars per square yard.
+Do you think that I could have a different paint color in my apartment?
+I have to see a sample. Bring me one this week, please.
+How long will it take for my new apartment to be ready?
+Both the new paint and new carpet will be finished by next week.
+Moving Out
+Great. What's up?
+I wanted to talk to you about something.
+What did you want to talk about?
+I just wanted to let you know that I'm moving out.
+When?
+In the next few weeks.
+I don't understand why you want to move.
+I'm going to school out of state.
+I see. That'll be fine.
+Yes. I'm fine with it.
+I'm all right. What did you need?
+When exactly are you planning on moving out?
+I'm going to be moving in a few weeks.
+Why are you going to move?
+I'm leaving the state to go to school.
+I can understand that.
+So you're fine with it?
+Eviction Notice
+I received an eviction notice from you, and I don't understand what it means.
+Well, you are behind in your rent; it's a 30-day notice to vacate.
+You can't make me move just for being late with my rent.
+You have been late with your rent several times now. I am filing suit for back rent to protect myself.
+Are you throwing me out?
+This notice is to let you know that you will be evicted by a sheriff if you don't make good on your rent.
+If I catch up on my rent, can I stay?
+You can stay if you catch up and stay caught up. Otherwise, I will find another renter.
+I will go get the money right now.
+Thank you. Please make sure that you pay with cash or a cashier's check.
+I opened my mail, found this eviction notice, and don't know what to do with it.
+Actually, it is a 30-day notice to vacate the premises.
+Just for being a few days late?
+This isn't the first time you have been considerably late with the rent. I need to start the procedure to evict you.
+Are you taking my apartment away?
+This is a notice to inform you that the sheriff will evict you in 30 days if you do not pay up on your rent.
+Can I keep the apartment if I pay my rent in full?
+You can keep the apartment if you stay caught up on your rent. Otherwise, I need to find someone who can make the payments.
+I will go write a check right now.
+Thank you. I will need a cashier's check or cash, please.
+What is this eviction notice for?
+The notice you received is a 30-day notice to vacate.
+I mentioned to you before that you need to keep up with your rent. This notice to evict is letting you know that I mean business.
+You can't just throw me out on the street!
+You have 30 days to catch up on your rent, or a sheriff will evict you.
+Will you still throw me out if I make the rent payment?
+You can stay, but you might think about looking for a less expensive living arrangement if you are having trouble making the payments.
+I am going to take care of the rent payment right now.
+Thank you. The payment needs to be in the form of cash or a cashier's check.
+Getting the Deposit Back
+I'm moving out.
+Your lease isn't up yet.
+I won't be able to stay here anymore.
+That's going to be a problem.
+I don't know why there's a problem.
+It's a problem because I can't give you your deposit back.
+Why can't you give it back to me?
+You're breaking our contract.
+I'm going to need my deposit back.
+That's not going to happen.
+I can't stay here, though.
+That's really not my problem.
+I have to move.
+You have not fulfilled your lease agreement yet.
+I can't stay here anymore.
+There's a problem with that.
+I won't be able to give you back your deposit.
+This was stated in our agreement.
+But I need it back.
+I can't do it.
+It will be impossible for me to stay here.
+That's not my fault.
+I'm going to be moving out soon.
+You still have time on your lease.
+There's no way that I can stay here.
+That's not going to be all right.
+I don't understand why.
+I'm going to have to keep your deposit
+Why can't I have it back?
+Because you're leaving before your lease is over.
+You have to give it back to me.
+You're not going to get it.
+But I'm not able to live here anymore.
+I can't help you with that.
+Asking about Where to Get Off
+This bus goes all the way to Santa Anita mall, right?
+Yes, it'll take us there.
+Are you positive?
+I always catch this bus.
+How long is this bus ride?
+It only takes half an hour.
+Where do we get off at?
+We can get off the bus right behind Macy's.
+There's a stop right next to the mall?
+Yeah, it's right in the parking lot.
+Does this bus really go to the mall?
+It goes all the way there.
+I know it does. I catch this bus a lot.
+How long does it take for the bus to get there?
+The bus ride is only thirty minutes or so.
+Where do we get off the bus?
+Right behind Macy's is a bus stop.
+The stop is really at the mall?
+It's in the middle of the parking lot.
+That's perfect.
+Are you sure that this bus will take us to Santa Anita mall?
+Yes, it will.
+You know that for a fact?
+Yeah, I catch this bus all the time.
+Is it a very long bus ride?
+It's about thirty minutes long.
+Do you know where we get off at?
+There's a bus stop right behind Macy's.
+Really, there's a bus stop right by the mall?
+There's a bus stop in the mall parking lot.
+That's convenient.
+Asking for a Transfer
+I need to get on another bus, but I have no more money.
+Where'd the rest of your money for the bus go?
+I spent it on a bag of chips.
+Well, that was an intelligent thing to do.
+You don't have any spare change?
+How am I going to get home?
+You should just ask the bus driver for a transfer.
+How much does that cost?
+It's free; just go ask for one.
+No problem, just go ask.
+I'm broke, and I have to catch another bus.
+Why don't you have any money for another bus?
+I got hungry and bought some chips.
+That was smart.
+Do you have any change I can use for the bus?
+I don't know how I'm going to get home.
+Get a transfer from the bus driver.
+How much is a transfer?
+It doesn't cost anything.
+I don't have any more cash, and I have to get on another bus to get home.
+Why don't you have any more money?
+I wanted some chips at lunch today, so I spent it.
+That was a bright idea.
+Do you have some change I can borrow?
+I don't have any change for you.
+I need to get home.
+Why don't you just ask the bus driver for a transfer?
+I don't have money for a transfer.
+Go ask for a transfer. They're free.
+I'm glad you let me know.
+Complaining about a Late Bus
+Where is the bus?
+I think it's running late.
+It should've been here 30 minutes ago.
+It should be coming soon.
+It better, because I'm already late for work.
+I can't stand riding the bus.
+Me too, it's so unreliable.
+It's also horrible having to be at a bus stop in any kind of weather.
+Exactly.That's the worst part.
+I think it's time we started driving.
+Yes, I agree.
+When is the bus going to get here?
+It's obviously late.
+It was scheduled to be here about thirty minutes ago.
+I'm sure it'll be here in a little bit.
+I hope so, because I'm running really late for work.
+I hate having to take the bus every day.
+So do I, you can never count on public transportation.
+Exactly.
+I really can't stand being at the bus stop in the heat and rain.
+We're going to have to get a car of our own.
+I couldn't agree with you more.
+I want to get on the bus already.
+It just isn't on time today.
+I think it'll be here pretty soon.
+I need to get to work, so it better.
+I really do hate public transportation.
+I agree, it's just never on time.
+That's right.
+I also hate having to stand at a bus stop in all kinds of weather.
+Oh, that's the worst.
+We need to get a car.
+I completely agree with that.
+Getting Off Too Early
+Is this our bus stop?
+I think this is it. Get off.
+Dude, where are we at?
+I thought this was the right stop.
+It doesn't look right to me.
+Did you make us get off early?
+I think we did.
+I should not have listened to you.
+I really thought this was our stop.
+Now we have to walk.
+Maybe we should just wait for the next bus.
+I'm not sure, is this our stop?
+Yeah, get off the bus.
+Do you have any idea where we are?
+This can't be the right stop.
+I don't think this is right.
+We got off too early, didn't we?
+Yeah, we did get off too early.
+I should've just stayed on the bus.
+I messed up.
+Great, we have to walk now.
+You want to wait for the next bus?
+Are we supposed to get off right here?
+I think so; hurry up and get off.
+Where are we?
+You said this was the right stop.
+I think I was wrong.
+Did we get off the bus too early?
+I don't know; it kind of looks like we did.
+Why did you tell me to get off?
+I'm sorry. I thought this was our stop.
+I really don't feel like walking.
+We could always wait for the next bus to come.
+How to Buy a Pass
+What kind of bus pass would you like to buy?
+What are the different kinds?
+You can get a day, weekly, monthly, or student pass.
+Could I get a student pass, please?
+Sure, can I see your student ID?
+Sure, here it is.
+How much for the pass?
+It's free, but the monthly sticker is $24.
+I'll take it.
+Thank you for your purchase.
+I would like to get a bus pass.
+Do you know what kind of pass you want?
+Can you tell me my options?
+There are passes for a day, month, and week, and there are student passes.
+I would like the student pass.
+Let me see your student ID.
+How much will it be for the pass?
+The monthly sticker is $24, but the actual pass is free.
+We appreciate your business.
+Could I buy a bus pass today?
+Which bus pass would you like to purchase?
+What kinds of passes are there?
+There are day passes, weekly passes, monthly passes, and student passes.
+Let me get a student pass.
+Could I see your student ID, please?
+No problem, here you go.
+How much does this pass cost?
+The pass is free; the monthly sticker costs $24.
+That's fine then.
+I hope you enjoy your pass.
+Missing the Bus Stop
+I think we have a little ways to go.
+This bus ride is taking forever.
+Did we miss our stop?
+Didn't you say you knew where to get off the bus?
+I don't know. We may have missed our stop.
+Yeah, we did miss it.
+I can't catch the bus with you anymore.
+Sorry.
+Do you know which stop we get off at?
+We still have more to go, I think.
+We've been on this bus for a while now.
+Should we have gotten off the bus already?
+Maybe we did miss our stop.
+I'm positive that we missed our stop.
+I'm never catching the bus with you again.
+My mistake.
+When do we get off the bus?
+I think we have a while longer.
+I feel like we've been on this bus forever.
+Are you sure we weren't supposed to get off already?
+I thought you knew where we get off at.
+I wasn't really paying attention. I think we missed our stop.
+Yeah, we definitely missed our stop.
+That's the last time I get on a bus with you.
+My bad.
+On a Wrong Bus
+So, where is this bus supposed to take us?
+It should take us back up to Altadena.
+Don't you know for sure?
+I'm not really sure if it does or not.
+Are you sure we got on the right bus?
+I've never taken this bus, but I think it's the right one.
+This place doesn't look like Altadena.
+That's true, and we have been on this bus for a while.
+Read one of the street signs or something.
+Yikes! Temple City.
+That's the last time I'm trusting you with the transportation.
+My bad, but at least we know the right bus to take us back.
+Do you even know where this bus is supposed to go?
+It should take us all the way up to Altadena.
+Don't you know?
+I'm not positive if it does or not.
+Is this the right bus, or not?
+I have never been on this bus, but I'm sure it's the right one.
+Where are we? This is not Altadena.
+I know, and we've been on the bus forever.
+Tell me what the street signs say.
+Oh my gosh, that one says Temple City.
+Next time, I'll look for the bus myself.
+I know, but now I know the bus that'll take us back.
+Are you sure you know where this bus goes?
+It should go to Altadena.
+What do you mean it should?
+I'm not completely sure if it really does.
+Dude, are we on the right bus?
+I'm almost positive that this is the right one.
+It doesn't look like we're on our way to Altadena.
+We have been riding this bus for a long time.
+What does that sign say?
+I think it says Temple City.
+Yup, I'm never trusting you with the bus schedules again.
+I'm sorry. But at least we know which bus to catch to get back where we started.
+Student Discount
+How much does it cost for a bus pass?
+It'll be $65 for a monthly pass.
+If you're in school, you can get a student pass.
+How much will that cost?
+The pass is free.
+I don't have to pay for anything?
+You'll only have to pay for the monthly sticker.
+How much is the monthly sticker?
+It's $24 for each month.
+I'll take the student bus pass.
+Okay, I'll get you one.
+Can you tell me the price for a bus pass?
+It costs $65 to buy a monthly pass.
+Is there a cheaper bus pass?
+There are student passes.
+For how much?
+It doesn't cost anything for the pass.
+It's absolutely free?
+The monthly sticker costs you.
+Each month it'll cost $24 for a new sticker.
+Let me get the student bus pass.
+Let me go get it for you.
+How much for a bus pass?
+Well, for a monthly pass, it'll cost you $65.
+Is there anything else that doesn't cost as much?
+If you're a student, you can get a student bus pass.
+How much does a student pass cost?
+That actual bus pass is free.
+It doesn't cost anything?
+The only thing you'll have to pay for is the monthly sticker.
+Can you tell me how much that'll cost?
+It's only $24 a month.
+Sounds good, let me get that.
+I'll get it for you right now.
+Talking to Someone on a Bus
+Good. How about you?
+Not bad, thanks for asking.
+Have you been on the bus for a while?
+Only about fifteen minutes.
+Do you ride this bus often?
+Not really, I usually drive.
+You have a car?
+So why aren't you driving it?
+Once our President lowers gas prices, I'll be driving again.
+That's smart thinking.
+I'm pretty good, you?
+I'm awesome.
+How long have you been on the bus?
+I've been on here for like, 15 minutes.
+Do you catch this bus a lot?
+Not much, I have a car.
+So, you have your own car?
+Then, why are you on the bus with me?
+I'm waiting till our President gets out of office, and the gas prices go down.
+That's good thinking.
+What's up, how are you?
+I'm splendid. How about yourself?
+Could be better.
+So, have you been on the bus very long?
+I got on about fifteen minutes ago.
+How often do you ride the bus?
+I usually just drive.
+You have your own vehicle?
+Yes, I have my own car.
+So then, why don't you drive it?
+I'm waiting for our President to lower the gas prices.
+Smart.
+The Bus System in LA
+Can you tell me what bus to catch from Altadena to downtown LA?
+You can catch the 486.
+That bus goes all the way to LA?
+Is the bus ride long?
+It only takes 45 minutes to an hour.
+That's all?
+It's a pretty short trip.
+Is there always a lot of people on that bus?
+It only gets crowded once it gets to LA.
+Oh okay, thank you.
+Do you know a bus I can take from Altadena to downtown LA?
+I believe you can take the 486.
+Will that bus really take me to LA?
+It sure will.
+Is it a very long ride?
+It's a forty-five minute to an hour ride.
+It doesn't take long at all
+Do a lot of people ride that bus?
+More people start getting on around LA.
+Wow, thanks a lot.
+Is there a bus in Altadena that'll take me to downtown LA?
+The 486.
+The 486 really goes downtown?
+How long is the bus ride?
+It's about forty-five minutes to an hour.
+Yeah, it's not that long of a trip.
+Is that a crowded bus?
+It starts getting more crowded the closer you get to LA.
+You're very welcome.
+Where to Buy a Pass
+Have you bought your bus pass yet?
+I didn't get it yet.
+I have no idea where to get it from.
+You should've just asked me.
+Well then, where do I get it?
+You can get it from the student business office.
+I know you didn't.
+I appreciate you telling me.
+I'll make sure to get it tomorrow.
+Did you get your bus pass?
+I haven't gone to get it yet.
+Why haven't you got it?
+I don't know where to go to get one.
+I know where to get them from.
+Where do I get it?
+They sell them at the business office on campus.
+I'm sure you didn't.
+I'll buy it later on today.
+Did you go and buy your bus pass?
+When are you going to go get it?
+I'm not sure where they sell bus passes at.
+Why didn't you just ask me?
+Where should I go?
+You can get one from student services.
+I had no clue that I could get it there.
+I already knew that.
+I'm going to go and get it right now.
+Where to Take the Bus
+What bus can I catch to get to the Gold Line?
+Tell me where you live.
+I live in Altadena.
+You can catch the 264.
+It goes to the Gold Line?
+What street do I go to to catch it?
+You can catch it on Altadena Drive.
+I had no idea that bus went to the station.
+I'm glad you told me.
+Do you know a bus that goes to the Gold Line station?
+Do you live in Pasadena?
+My house is up in Altadena.
+You could always take the 264.
+It'll really take me to the station?
+Do you know what street it goes on?
+Catch it on Altadena Drive.
+I would've never known.
+Now you know.
+I need to find a bus that'll take me to the Gold Line.
+I live up in Altadena.
+The 264 will take you there.
+It goes all the way there?
+I know for a fact that it goes to the station.
+What street would I catch it on?
+If you go to Altadena Drive, you can catch it there.
+I didn't know that bus went to the Gold Line station.
+Yup, it does.
+It was my pleasure.
+Where to Change the Bus
+Do you know which bus will take me from PHS to Vons?
+Which Vons do you want to go to?
+It's on Fair Oaks and Orange Grove.
+You actually need to catch two buses.
+Which ones do I need to take?
+The first bus you need to get on is the 268.
+What do I do next?
+Once you get to Fair Oaks and Washington, get off.
+You need to get on the 261. It goes all the way to Vons.
+Which bus should I take from PHS to Vons?
+Can you tell me which Vons you want to go to?
+I believe that it's on Fair Oaks and Orange Grove.
+You'll have to catch two different buses to get there.
+Do you know which buses I need to take?
+The 268 is the first bus you need to catch.
+What do I do after I get on the 268?
+Get off when you get to Fair Oaks and Washington.
+Catch the 261 and get off at Vons.
+That's all you have to do.
+Is there a bus that'll go all the way to Vons from PHS?
+Where is this Vons located?
+The Vons on Fair Oaks and Orange Grove.
+You're going to need to take two buses to get to that Vons.
+Which buses will I have to take?
+First, you need to get on the 268 going west.
+You need to get off on Fair Oaks and Washington.
+Get on the 261, and it'll take you the rest of the way to Vons.
+There's nothing else?
+Which Bus to Take
+I really need to find a bus that goes by PCC.
+Where do you need to catch this bus at?
+All the way up on Las Flores Drive and Fair Oaks.
+I can tell you what bus to catch, but you have to walk a little bit.
+Walking isn't a problem for me.
+The 267 stops at Altadena Drive and Fair Oaks.
+Which direction do I want?
+Get on the bus heading west.
+Do you know where I get off at?
+Del Mar and Hill.
+Do you know which bus I can take to PCC?
+Tell me where you need to get on at.
+I live on Las Flores and Fair Oaks.
+If you don't mind walking, I know a bus you can take.
+I'm okay with walking.
+Walk all the way down Fair Oaks, and catch the 267 on Altadena Drive.
+Do you know which direction it should be heading?
+You have to catch it going west.
+Which stop do I get off on?
+You need to get off on the corner of Del Mar and Hill.
+I need to get to PCC, but I don't know which bus to catch.
+Where exactly are you coming from?
+I'm coming from Fair Oaks and Las Flores Drive in Altadena.
+Do you have a problem walking a little bit?
+I don't mind walking.
+If you walk down Fair Oaks to Altadena Drive, you can catch the 267.
+Tell me which direction it should be going.
+Make sure to catch it going west.
+Where do I get off?
+You get off on Del Mar and Hill.
+Thanks for the help.
+Why to Buy a Pass
+Did you ever get your bus pass?
+I don't think I'm going to get one.
+It's just a waste of cash.
+Actually, it'll save you money.
+Because you can use your bus pass as many times as you want.
+Yes, and you never have to worry about scraping for change.
+So, are you going to buy one?
+Have you bought a bus pass yet?
+I'm not getting one.
+It's cheaper if I don't buy one.
+Buying a bus pass will save you money.
+How do you figure that?
+There's no limit to how often you can use your bus pass.
+Plus, you don't have to use change for the bus anymore.
+I like that.
+You want to buy one now?
+I'm going to.
